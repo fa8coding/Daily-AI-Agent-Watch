@@ -1,70 +1,70 @@
 {
-  "name": "agent-core",
-  "full_name": "openJiuwen-ai/agent-core",
-  "updated": "2026-07-24T02:29:44Z",
-  "desc": "openJiuwen agent-core provides a complete set of SDK capabilities related to AI Agent development, running, optimization, and evolution.",
-  "url": "https://github.com/openJiuwen-ai/agent-core"
-}
-{
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-07-24T02:29:43Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
-  "url": "https://github.com/marcusquinn/aidevops"
-}
-{
-  "name": "gaia",
-  "full_name": "amd/gaia",
-  "updated": "2026-07-24T02:29:26Z",
-  "desc": "Build AI agents for your PC",
-  "url": "https://github.com/amd/gaia"
-}
-{
-  "name": "nanobot",
-  "full_name": "HKUDS/nanobot",
-  "updated": "2026-07-24T02:29:23Z",
-  "desc": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
-  "url": "https://github.com/HKUDS/nanobot"
-}
-{
-  "name": "sim",
-  "full_name": "simstudioai/sim",
-  "updated": "2026-07-24T02:29:30Z",
-  "desc": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-  "url": "https://github.com/simstudioai/sim"
-}
-{
-  "name": "WrenAI",
-  "full_name": "Canner/WrenAI",
-  "updated": "2026-07-24T02:27:53Z",
-  "desc": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
-  "url": "https://github.com/Canner/WrenAI"
-}
-{
-  "name": "mateclaw",
-  "full_name": "mateaix/mateclaw",
-  "updated": "2026-07-24T02:27:39Z",
-  "desc": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
-  "url": "https://github.com/mateaix/mateclaw"
-}
-{
-  "name": "rosclaw",
-  "full_name": "ros-claw/rosclaw",
-  "updated": "2026-07-24T02:26:26Z",
-  "desc": "Self-evolving runtime infrastructure for Physical AI and embodied agents. Ground AI agents into robot bodies with e-URDF, sandbox safety, capability routing, praxis capture, physical memory, runtime intervention, and skill evolution.",
-  "url": "https://github.com/ros-claw/rosclaw"
-}
-{
-  "name": "pireel",
-  "full_name": "pireel/pireel",
-  "updated": "2026-07-24T02:23:51Z",
-  "desc": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-  "url": "https://github.com/pireel/pireel"
-}
-{
   "name": "signetai",
   "full_name": "Signet-AI/signetai",
-  "updated": "2026-07-24T02:23:35Z",
+  "updated": "2026-07-25T02:28:06Z",
   "desc": "Local-first identity, memory, and secrets for AI agents. Portable state across models and harnesses.",
   "url": "https://github.com/Signet-AI/signetai"
+}
+{
+  "name": "uniterm",
+  "full_name": "ys-ll/uniterm",
+  "updated": "2026-07-25T02:26:42Z",
+  "desc": "A lightweight all-in-one terminal with 20+ protocols — SSH, RDP, SFTP, databases and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands.",
+  "url": "https://github.com/ys-ll/uniterm"
+}
+{
+  "name": "worktrunk",
+  "full_name": "max-sixty/worktrunk",
+  "updated": "2026-07-25T02:25:35Z",
+  "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+  "url": "https://github.com/max-sixty/worktrunk"
+}
+{
+  "name": "wind-comic",
+  "full_name": "ChrisChen667788/wind-comic",
+  "updated": "2026-07-25T02:24:08Z",
+  "desc": "Multi-agent AI pipeline that turns one line of text into a finished short-form drama: script, cinematic storyboards, character-consistent video. Provider-agnostic (OpenAI/Claude, MJ, Minimax, Veo/Sora, fal, ComfyUI). MIT.",
+  "url": "https://github.com/ChrisChen667788/wind-comic"
+}
+{
+  "name": "scream-code",
+  "full_name": "LIUTod/scream-code",
+  "updated": "2026-07-25T02:22:09Z",
+  "desc": "(中文UI)An open-source and powerful agent runs in your terminal, featuring unlimited concurrency and a multi-agent orchestration engine",
+  "url": "https://github.com/LIUTod/scream-code"
+}
+{
+  "name": "open-multi-agent",
+  "full_name": "open-multi-agent/open-multi-agent",
+  "updated": "2026-07-25T02:25:01Z",
+  "desc": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepSeek, or local models).",
+  "url": "https://github.com/open-multi-agent/open-multi-agent"
+}
+{
+  "name": "agent-teams-ai",
+  "full_name": "777genius/agent-teams-ai",
+  "updated": "2026-07-25T02:21:22Z",
+  "desc": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode/Cursor/Grok/GitHub Copilot/Kiro/Z.AI/MiniMax/Kimi(200+ models, 75+ LLM providers, free models no auth). Build your AI company with multiple teams",
+  "url": "https://github.com/777genius/agent-teams-ai"
+}
+{
+  "name": "smithers",
+  "full_name": "smithersai/smithers",
+  "updated": "2026-07-25T02:19:44Z",
+  "desc": "Agent workflows with full observability and time travel: watch every step live, rewind, fork, replay any run. Claude Code, Codex, Gemini, any model or harness.",
+  "url": "https://github.com/smithersai/smithers"
+}
+{
+  "name": "commonly",
+  "full_name": "Team-Commonly/commonly",
+  "updated": "2026-07-25T02:19:02Z",
+  "desc": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infra — no per-agent fees.",
+  "url": "https://github.com/Team-Commonly/commonly"
+}
+{
+  "name": "jiuwenswarm",
+  "full_name": "openJiuwen-ai/jiuwenswarm",
+  "updated": "2026-07-25T02:18:40Z",
+  "desc": "JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingertips through various communication apps you use daily.",
+  "url": "https://github.com/openJiuwen-ai/jiuwenswarm"
 }
