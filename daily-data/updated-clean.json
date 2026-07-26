@@ -1,70 +1,70 @@
 {
-  "name": "signetai",
-  "full_name": "Signet-AI/signetai",
-  "updated": "2026-07-25T02:28:06Z",
-  "desc": "Local-first identity, memory, and secrets for AI agents. Portable state across models and harnesses.",
-  "url": "https://github.com/Signet-AI/signetai"
-}
-{
-  "name": "uniterm",
-  "full_name": "ys-ll/uniterm",
-  "updated": "2026-07-25T02:26:42Z",
-  "desc": "A lightweight all-in-one terminal with 20+ protocols — SSH, RDP, SFTP, databases and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands.",
-  "url": "https://github.com/ys-ll/uniterm"
-}
-{
-  "name": "worktrunk",
-  "full_name": "max-sixty/worktrunk",
-  "updated": "2026-07-25T02:25:35Z",
-  "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-  "url": "https://github.com/max-sixty/worktrunk"
-}
-{
-  "name": "wind-comic",
-  "full_name": "ChrisChen667788/wind-comic",
-  "updated": "2026-07-25T02:24:08Z",
-  "desc": "Multi-agent AI pipeline that turns one line of text into a finished short-form drama: script, cinematic storyboards, character-consistent video. Provider-agnostic (OpenAI/Claude, MJ, Minimax, Veo/Sora, fal, ComfyUI). MIT.",
-  "url": "https://github.com/ChrisChen667788/wind-comic"
-}
-{
-  "name": "scream-code",
-  "full_name": "LIUTod/scream-code",
-  "updated": "2026-07-25T02:22:09Z",
-  "desc": "(中文UI)An open-source and powerful agent runs in your terminal, featuring unlimited concurrency and a multi-agent orchestration engine",
-  "url": "https://github.com/LIUTod/scream-code"
-}
-{
   "name": "open-multi-agent",
   "full_name": "open-multi-agent/open-multi-agent",
-  "updated": "2026-07-25T02:25:01Z",
+  "updated": "2026-07-26T02:35:02Z",
   "desc": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepSeek, or local models).",
   "url": "https://github.com/open-multi-agent/open-multi-agent"
 }
 {
-  "name": "agent-teams-ai",
-  "full_name": "777genius/agent-teams-ai",
-  "updated": "2026-07-25T02:21:22Z",
-  "desc": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode/Cursor/Grok/GitHub Copilot/Kiro/Z.AI/MiniMax/Kimi(200+ models, 75+ LLM providers, free models no auth). Build your AI company with multiple teams",
-  "url": "https://github.com/777genius/agent-teams-ai"
+  "name": "deer-flow",
+  "full_name": "bytedance/deer-flow",
+  "updated": "2026-07-26T02:34:38Z",
+  "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+  "url": "https://github.com/bytedance/deer-flow"
 }
 {
   "name": "smithers",
   "full_name": "smithersai/smithers",
-  "updated": "2026-07-25T02:19:44Z",
+  "updated": "2026-07-26T02:31:42Z",
   "desc": "Agent workflows with full observability and time travel: watch every step live, rewind, fork, replay any run. Claude Code, Codex, Gemini, any model or harness.",
   "url": "https://github.com/smithersai/smithers"
 }
 {
-  "name": "commonly",
-  "full_name": "Team-Commonly/commonly",
-  "updated": "2026-07-25T02:19:02Z",
-  "desc": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infra — no per-agent fees.",
-  "url": "https://github.com/Team-Commonly/commonly"
+  "name": "race-condition",
+  "full_name": "GoogleCloudPlatform/race-condition",
+  "updated": "2026-07-26T02:31:38Z",
+  "desc": "The open source multi-agent simulation from the Developer Keynote at Google Cloud Next '26. A deployable reference architecture for autonomous AI agents using Gemini and ADK.",
+  "url": "https://github.com/GoogleCloudPlatform/race-condition"
 }
 {
-  "name": "jiuwenswarm",
-  "full_name": "openJiuwen-ai/jiuwenswarm",
-  "updated": "2026-07-25T02:18:40Z",
-  "desc": "JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingertips through various communication apps you use daily.",
-  "url": "https://github.com/openJiuwen-ai/jiuwenswarm"
+  "name": "veritas-kanban",
+  "full_name": "BradGroux/veritas-kanban",
+  "updated": "2026-07-26T02:28:30Z",
+  "desc": "Lightweight orchestration harness built for your AI agents. The unfiltered truth about where your project stands. ",
+  "url": "https://github.com/BradGroux/veritas-kanban"
+}
+{
+  "name": "multi-agent-architecture-advisor",
+  "full_name": "1iry/multi-agent-architecture-advisor",
+  "updated": "2026-07-26T02:28:30Z",
+  "desc": "Advanced AI Code Strategy Advisor for Developer Agents (2026)",
+  "url": "https://github.com/1iry/multi-agent-architecture-advisor"
+}
+{
+  "name": "LiveAgent",
+  "full_name": "Stack-Cairn/LiveAgent",
+  "updated": "2026-07-26T02:27:35Z",
+  "desc": "A fully functional AI Agent desktop client that supports Webui access and can be creatively customized and expanded!",
+  "url": "https://github.com/Stack-Cairn/LiveAgent"
+}
+{
+  "name": "bernstein",
+  "full_name": "sipyourdrink-ltd/bernstein",
+  "updated": "2026-07-26T02:33:46Z",
+  "desc": "Deterministic orchestrator for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). No model in the coordination loop, so parallel runs in per-task git worktrees replay byte-identically. Signed lineage plus an opt-in HMAC audit chain a reviewer checks offline, without rerunning it. Cluster mode, air-gap deploy.",
+  "url": "https://github.com/sipyourdrink-ltd/bernstein"
+}
+{
+  "name": "ArcReel",
+  "full_name": "ArcReel/ArcReel",
+  "updated": "2026-07-26T02:26:18Z",
+  "desc": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
+  "url": "https://github.com/ArcReel/ArcReel"
+}
+{
+  "name": "aerial-autonomy-stack",
+  "full_name": "JacopoPan/aerial-autonomy-stack",
+  "updated": "2026-07-26T02:25:57Z",
+  "desc": "An open framework to simulate and deploy perception-based PX4/ArduPilot drone swarms with ROS2, YOLO, LiDAR, NVIDIA Jetson",
+  "url": "https://github.com/JacopoPan/aerial-autonomy-stack"
 }
