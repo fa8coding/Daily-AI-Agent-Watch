@@ -1,70 +1,70 @@
 {
-  "name": "awesome-agent-skills",
-  "full_name": "JackyST0/awesome-agent-skills",
-  "updated": "2026-07-27T02:42:16Z",
-  "desc": "🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具",
-  "url": "https://github.com/JackyST0/awesome-agent-skills"
+  "name": "prismor",
+  "full_name": "PrismorSec/prismor",
+  "updated": "2026-07-28T02:21:12Z",
+  "desc": "Runtime Firewall for AI agents which catches the rogue tool call before it runs. Dangerous commands, secret leaks, prompt injection. For Claude Code, Codex and framework SDKs",
+  "url": "https://github.com/PrismorSec/prismor"
 }
 {
-  "name": "omk",
-  "full_name": "dmae97/omk",
-  "updated": "2026-07-27T02:41:57Z",
-  "desc": "Evidence-gated runner for Codex, Claude Code, OpenCode, and local coding agents. Routes tasks into scoped DAG lanes with replayable artifacts.",
-  "url": "https://github.com/dmae97/omk"
+  "name": "mindpocket",
+  "full_name": "jihe520/mindpocket",
+  "updated": "2026-07-28T02:20:40Z",
+  "desc": "Open-source, free, multi-platform, one-click deploy, AI Agent–integrated personal bookmarking system｜完全开源、免费、多端、一键部署、AI Agent 集成的个人收藏夹系统",
+  "url": "https://github.com/jihe520/mindpocket"
 }
 {
-  "name": "worktrunk",
-  "full_name": "max-sixty/worktrunk",
-  "updated": "2026-07-27T02:41:52Z",
-  "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-  "url": "https://github.com/max-sixty/worktrunk"
+  "name": "zhin",
+  "full_name": "zhinjs/zhin",
+  "updated": "2026-07-28T02:20:27Z",
+  "desc": "现代 TypeScript AI Agent 运行时 —— 多通道 Endpoint 接入、Harness 安全编排、插件热重载",
+  "url": "https://github.com/zhinjs/zhin"
 }
 {
-  "name": "opencouncil-contract-inspector",
-  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-07-27T02:41:03Z",
-  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
-  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  "name": "nexent",
+  "full_name": "ModelEngine-Group/nexent",
+  "updated": "2026-07-28T02:19:42Z",
+  "desc": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.",
+  "url": "https://github.com/ModelEngine-Group/nexent"
 }
 {
-  "name": "sim-use",
-  "full_name": "lycorp-jp/sim-use",
-  "updated": "2026-07-27T02:42:30Z",
-  "desc": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
-  "url": "https://github.com/lycorp-jp/sim-use"
+  "name": "animaworks",
+  "full_name": "xuiltul/animaworks",
+  "updated": "2026-07-28T02:19:05Z",
+  "desc": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model (Claude/Codex/Gemini/Cursor/Ollama).",
+  "url": "https://github.com/xuiltul/animaworks"
 }
 {
-  "name": "openclacky",
-  "full_name": "clacky-ai/openclacky",
-  "updated": "2026-07-27T02:38:45Z",
-  "desc": "The most Token-efficient open-source AI Agent",
-  "url": "https://github.com/clacky-ai/openclacky"
+  "name": "wesight",
+  "full_name": "freestylefly/wesight",
+  "updated": "2026-07-28T02:19:04Z",
+  "desc": "Open-source desktop AI agent workspace with one-click Claude Code, Codex, OpenClaw, Hermes Agent setup and custom LLM model routing.",
+  "url": "https://github.com/freestylefly/wesight"
 }
 {
-  "name": "trpc-agent-go",
-  "full_name": "trpc-group/trpc-agent-go",
-  "updated": "2026-07-27T02:36:46Z",
-  "desc": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability.",
-  "url": "https://github.com/trpc-group/trpc-agent-go"
+  "name": "stash",
+  "full_name": "Fergana-Labs/stash",
+  "updated": "2026-07-28T02:18:31Z",
+  "desc": "Shared memory for your team's coding agents",
+  "url": "https://github.com/Fergana-Labs/stash"
 }
 {
-  "name": "hud-python",
-  "full_name": "hud-evals/hud-python",
-  "updated": "2026-07-27T02:36:39Z",
-  "desc": "RL environments + evals for AI agents. Define once, train anything.",
-  "url": "https://github.com/hud-evals/hud-python"
+  "name": "cindy",
+  "full_name": "makecindy/cindy",
+  "updated": "2026-07-28T02:22:44Z",
+  "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+  "url": "https://github.com/makecindy/cindy"
 }
 {
-  "name": "ruflo",
-  "full_name": "ruvnet/ruflo",
-  "updated": "2026-07-27T02:42:59Z",
-  "desc": "🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-  "url": "https://github.com/ruvnet/ruflo"
+  "name": "cherry-studio",
+  "full_name": "CherryHQ/cherry-studio",
+  "updated": "2026-07-28T02:17:52Z",
+  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+  "url": "https://github.com/CherryHQ/cherry-studio"
 }
 {
-  "name": "foxl-orchestrator",
-  "full_name": "ninouanis84-sudo/foxl-orchestrator",
-  "updated": "2026-07-27T02:36:21Z",
-  "desc": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-  "url": "https://github.com/ninouanis84-sudo/foxl-orchestrator"
+  "name": "loki-mode",
+  "full_name": "asklokesh/loki-mode",
+  "updated": "2026-07-28T02:17:55Z",
+  "desc": "Multi-agent autonomous SDLC framework. Spec to deployed app. PRD, GitHub issue, OpenAPI/JSON/YAML, or one-line brief. 5 AI providers, 8 quality gates.",
+  "url": "https://github.com/asklokesh/loki-mode"
 }
