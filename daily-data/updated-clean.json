@@ -1,70 +1,70 @@
 {
-  "name": "tubecli",
-  "full_name": "tubecreate/tubecli",
-  "updated": "2026-07-30T02:08:59Z",
-  "desc": "⚡ TubeCLI — The Ultimate Open Source AI Agents Ecosystem | Agents Browser · Agents Workflow · Agents Studio World",
-  "url": "https://github.com/tubecreate/tubecli"
+  "name": "doris",
+  "full_name": "apache/doris",
+  "updated": "2026-07-31T02:36:37Z",
+  "desc": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
+  "url": "https://github.com/apache/doris"
 }
 {
-  "name": "ai-manus",
-  "full_name": "Simpleyyt/ai-manus",
-  "updated": "2026-07-30T02:08:47Z",
-  "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-  "url": "https://github.com/Simpleyyt/ai-manus"
-}
-{
-  "name": "opencouncil-contract-inspector",
-  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-07-30T02:07:26Z",
-  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
-  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  "name": "sage-wiki",
+  "full_name": "xoai/sage-wiki",
+  "updated": "2026-07-31T02:36:14Z",
+  "desc": "sage-wiki is a graph memory and knowledge base that AI agents and humans build and query together. Drop in documents; an LLM compiler turns them into an interlinked wiki with a knowledge graph. One Go binary scales it from a personal vault to a team hub to a company knowledge graph.",
+  "url": "https://github.com/xoai/sage-wiki"
 }
 {
   "name": "aidevops",
   "full_name": "marcusquinn/aidevops",
-  "updated": "2026-07-30T02:06:55Z",
+  "updated": "2026-07-31T02:35:51Z",
   "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
   "url": "https://github.com/marcusquinn/aidevops"
 }
 {
-  "name": "cindy",
-  "full_name": "makecindy/cindy",
-  "updated": "2026-07-30T02:06:45Z",
-  "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-  "url": "https://github.com/makecindy/cindy"
+  "name": "atom",
+  "full_name": "rush86999/atom",
+  "updated": "2026-07-31T02:35:40Z",
+  "desc": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
+  "url": "https://github.com/rush86999/atom"
+}
+{
+  "name": "ai.robots.txt",
+  "full_name": "ai-robots-txt/ai.robots.txt",
+  "updated": "2026-07-31T02:35:27Z",
+  "desc": "A list of AI agents and robots to block.",
+  "url": "https://github.com/ai-robots-txt/ai.robots.txt"
+}
+{
+  "name": "opencouncil-contract-inspector",
+  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
+  "updated": "2026-07-31T02:34:49Z",
+  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
+  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
   "name": "PhysiClaw",
   "full_name": "physiclaw/PhysiClaw",
-  "updated": "2026-07-30T02:06:16Z",
+  "updated": "2026-07-31T02:34:32Z",
   "desc": "The AI agent that interacts with you in the real world.",
   "url": "https://github.com/physiclaw/PhysiClaw"
 }
 {
-  "name": "ruflo",
-  "full_name": "ruvnet/ruflo",
-  "updated": "2026-07-30T02:06:01Z",
-  "desc": "🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-  "url": "https://github.com/ruvnet/ruflo"
+  "name": "agent-governance-toolkit",
+  "full_name": "microsoft/agent-governance-toolkit",
+  "updated": "2026-07-31T02:34:30Z",
+  "desc": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+  "url": "https://github.com/microsoft/agent-governance-toolkit"
 }
 {
-  "name": "ClaudeCode-Workflow-Lab",
-  "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
-  "updated": "2026-07-30T02:05:36Z",
-  "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
-  "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
+  "name": "frankenterm",
+  "full_name": "Dicklesworthstone/frankenterm",
+  "updated": "2026-07-31T02:33:28Z",
+  "desc": "Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine pattern detection, and a JSON API for coordinating fleets of coding agents across WezTerm",
+  "url": "https://github.com/Dicklesworthstone/frankenterm"
 }
 {
-  "name": "jiuwenswarm",
-  "full_name": "openJiuwen-ai/jiuwenswarm",
-  "updated": "2026-07-30T02:08:53Z",
-  "desc": "JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingertips through various communication apps you use daily.",
-  "url": "https://github.com/openJiuwen-ai/jiuwenswarm"
-}
-{
-  "name": "QozeCode",
-  "full_name": "KylinShinlyLin/QozeCode",
-  "updated": "2026-07-30T02:04:05Z",
-  "desc": "QozeCode 是轻量级的 命令行 AI agent，基于 LangGraph 架构构建的专业级命令行智能体（AI Agent）。它旨在将大语言模型的推理能力与终端操作环境深度融合，通过 ReAct（Reasoning and Acting）范式，实现复杂开发任务的自动化执行。",
-  "url": "https://github.com/KylinShinlyLin/QozeCode"
+  "name": "xpert",
+  "full_name": "xpert-ai/xpert",
+  "updated": "2026-07-31T02:33:25Z",
+  "desc": "Xpert AI is an AI agents and data analysis platform for enterprises to make business decisions.",
+  "url": "https://github.com/xpert-ai/xpert"
 }
