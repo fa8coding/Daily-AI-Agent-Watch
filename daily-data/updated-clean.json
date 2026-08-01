@@ -1,70 +1,70 @@
 {
-  "name": "doris",
-  "full_name": "apache/doris",
-  "updated": "2026-07-31T02:36:37Z",
-  "desc": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
-  "url": "https://github.com/apache/doris"
+  "name": "copilot-cache-scout",
+  "full_name": "PROrunner926/copilot-cache-scout",
+  "updated": "2026-08-01T02:35:28Z",
+  "desc": "Multi-Agent Code Review Cost Benchmark 2026: Librarian vs Prompt Cache",
+  "url": "https://github.com/PROrunner926/copilot-cache-scout"
 }
 {
-  "name": "sage-wiki",
-  "full_name": "xoai/sage-wiki",
-  "updated": "2026-07-31T02:36:14Z",
-  "desc": "sage-wiki is a graph memory and knowledge base that AI agents and humans build and query together. Drop in documents; an LLM compiler turns them into an interlinked wiki with a knowledge graph. One Go binary scales it from a personal vault to a team hub to a company knowledge graph.",
-  "url": "https://github.com/xoai/sage-wiki"
+  "name": "agentscope",
+  "full_name": "agentscope-ai/agentscope",
+  "updated": "2026-08-01T02:34:47Z",
+  "desc": "Build and run agents you can see, understand and trust.",
+  "url": "https://github.com/agentscope-ai/agentscope"
 }
 {
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-07-31T02:35:51Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
-  "url": "https://github.com/marcusquinn/aidevops"
+  "name": "AssemblyZero",
+  "full_name": "martymcenroe/AssemblyZero",
+  "updated": "2026-08-01T02:34:21Z",
+  "desc": "Parameterized multi-agent orchestration framework for Claude Code and Gemini",
+  "url": "https://github.com/martymcenroe/AssemblyZero"
 }
 {
-  "name": "atom",
-  "full_name": "rush86999/atom",
-  "updated": "2026-07-31T02:35:40Z",
-  "desc": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-  "url": "https://github.com/rush86999/atom"
+  "name": "mcp-gateway-registry",
+  "full_name": "agentic-community/mcp-gateway-registry",
+  "updated": "2026-08-01T02:32:44Z",
+  "desc": "Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.",
+  "url": "https://github.com/agentic-community/mcp-gateway-registry"
 }
 {
-  "name": "ai.robots.txt",
-  "full_name": "ai-robots-txt/ai.robots.txt",
-  "updated": "2026-07-31T02:35:27Z",
-  "desc": "A list of AI agents and robots to block.",
-  "url": "https://github.com/ai-robots-txt/ai.robots.txt"
+  "name": "smithers",
+  "full_name": "smithersai/smithers",
+  "updated": "2026-08-01T02:31:51Z",
+  "desc": "Agent workflows with full observability and time travel: watch every step live, rewind, fork, replay any run. Claude Code, Codex, Gemini, any model or harness.",
+  "url": "https://github.com/smithersai/smithers"
 }
 {
-  "name": "opencouncil-contract-inspector",
-  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-07-31T02:34:49Z",
-  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
-  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  "name": "openclacky",
+  "full_name": "clacky-ai/openclacky",
+  "updated": "2026-08-01T02:31:47Z",
+  "desc": "The most Token-efficient open-source AI Agent",
+  "url": "https://github.com/clacky-ai/openclacky"
 }
 {
-  "name": "PhysiClaw",
-  "full_name": "physiclaw/PhysiClaw",
-  "updated": "2026-07-31T02:34:32Z",
-  "desc": "The AI agent that interacts with you in the real world.",
-  "url": "https://github.com/physiclaw/PhysiClaw"
+  "name": "sim",
+  "full_name": "simstudioai/sim",
+  "updated": "2026-08-01T02:33:53Z",
+  "desc": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+  "url": "https://github.com/simstudioai/sim"
 }
 {
-  "name": "agent-governance-toolkit",
-  "full_name": "microsoft/agent-governance-toolkit",
-  "updated": "2026-07-31T02:34:30Z",
-  "desc": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
-  "url": "https://github.com/microsoft/agent-governance-toolkit"
+  "name": "cindy",
+  "full_name": "makecindy/cindy",
+  "updated": "2026-08-01T02:30:46Z",
+  "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+  "url": "https://github.com/makecindy/cindy"
 }
 {
-  "name": "frankenterm",
-  "full_name": "Dicklesworthstone/frankenterm",
-  "updated": "2026-07-31T02:33:28Z",
-  "desc": "Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine pattern detection, and a JSON API for coordinating fleets of coding agents across WezTerm",
-  "url": "https://github.com/Dicklesworthstone/frankenterm"
+  "name": "PettingZoo",
+  "full_name": "Farama-Foundation/PettingZoo",
+  "updated": "2026-08-01T02:28:27Z",
+  "desc": "A standard API for multi-agent reinforcement learning environments, with popular reference environments and related utilities",
+  "url": "https://github.com/Farama-Foundation/PettingZoo"
 }
 {
-  "name": "xpert",
-  "full_name": "xpert-ai/xpert",
-  "updated": "2026-07-31T02:33:25Z",
-  "desc": "Xpert AI is an AI agents and data analysis platform for enterprises to make business decisions.",
-  "url": "https://github.com/xpert-ai/xpert"
+  "name": "managed-agents",
+  "full_name": "sandbaseai/managed-agents",
+  "updated": "2026-08-01T02:27:43Z",
+  "desc": "Open-source CMA-compatible agent runtime. Run multi-agent systems locally with any model (Ollama/vLLM/Claude/GPT), MCP tools, scenario templates, and a beautiful dashboard. One command start. Built for enterprise teams.",
+  "url": "https://github.com/sandbaseai/managed-agents"
 }
