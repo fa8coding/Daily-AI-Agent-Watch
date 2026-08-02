@@ -1,70 +1,70 @@
 {
-  "name": "copilot-cache-scout",
-  "full_name": "PROrunner926/copilot-cache-scout",
-  "updated": "2026-08-01T02:35:28Z",
-  "desc": "Multi-Agent Code Review Cost Benchmark 2026: Librarian vs Prompt Cache",
-  "url": "https://github.com/PROrunner926/copilot-cache-scout"
+  "name": "cli-printing-press",
+  "full_name": "mvanhorn/cli-printing-press",
+  "updated": "2026-08-02T02:33:05Z",
+  "desc": "Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.",
+  "url": "https://github.com/mvanhorn/cli-printing-press"
 }
 {
-  "name": "agentscope",
-  "full_name": "agentscope-ai/agentscope",
-  "updated": "2026-08-01T02:34:47Z",
-  "desc": "Build and run agents you can see, understand and trust.",
-  "url": "https://github.com/agentscope-ai/agentscope"
+  "name": "opencouncil-contract-inspector",
+  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
+  "updated": "2026-08-02T02:32:22Z",
+  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
+  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
-  "name": "AssemblyZero",
-  "full_name": "martymcenroe/AssemblyZero",
-  "updated": "2026-08-01T02:34:21Z",
-  "desc": "Parameterized multi-agent orchestration framework for Claude Code and Gemini",
-  "url": "https://github.com/martymcenroe/AssemblyZero"
+  "name": "animaworks",
+  "full_name": "xuiltul/animaworks",
+  "updated": "2026-08-02T02:32:24Z",
+  "desc": "Organization-as-Code for autonomous AI agents. Brain-inspired memory that grows, consolidates, and forgets. Multi-model (Claude/Codex/Gemini/Cursor/Ollama).",
+  "url": "https://github.com/xuiltul/animaworks"
 }
 {
-  "name": "mcp-gateway-registry",
-  "full_name": "agentic-community/mcp-gateway-registry",
-  "updated": "2026-08-01T02:32:44Z",
-  "desc": "Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.",
-  "url": "https://github.com/agentic-community/mcp-gateway-registry"
+  "name": "Shadowbroker",
+  "full_name": "BigBodyCobain/Shadowbroker",
+  "updated": "2026-08-02T02:32:02Z",
+  "desc": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+  "url": "https://github.com/BigBodyCobain/Shadowbroker"
 }
 {
-  "name": "smithers",
-  "full_name": "smithersai/smithers",
-  "updated": "2026-08-01T02:31:51Z",
-  "desc": "Agent workflows with full observability and time travel: watch every step live, rewind, fork, replay any run. Claude Code, Codex, Gemini, any model or harness.",
-  "url": "https://github.com/smithersai/smithers"
+  "name": "prismor",
+  "full_name": "PrismorSec/prismor",
+  "updated": "2026-08-02T02:31:50Z",
+  "desc": " Self-hosted runtime control plane for AI agents. Blocks the rogue tool call before it executes: dangerous commands, secret leaks, prompt injection. Works with any ai agent like Claude Code, Codex, and framework SDKs.",
+  "url": "https://github.com/PrismorSec/prismor"
 }
 {
-  "name": "openclacky",
-  "full_name": "clacky-ai/openclacky",
-  "updated": "2026-08-01T02:31:47Z",
-  "desc": "The most Token-efficient open-source AI Agent",
-  "url": "https://github.com/clacky-ai/openclacky"
+  "name": "mcp_agent_mail_rust",
+  "full_name": "Dicklesworthstone/mcp_agent_mail_rust",
+  "updated": "2026-08-02T02:30:56Z",
+  "desc": "Rust MCP server for multi-agent coordination: 34 tools, Git-backed archive, SQLite indexing, advisory file locks, and an interactive TUI console",
+  "url": "https://github.com/Dicklesworthstone/mcp_agent_mail_rust"
 }
 {
-  "name": "sim",
-  "full_name": "simstudioai/sim",
-  "updated": "2026-08-01T02:33:53Z",
-  "desc": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-  "url": "https://github.com/simstudioai/sim"
+  "name": "MisakaNet",
+  "full_name": "Ikalus1988/MisakaNet",
+  "updated": "2026-08-02T02:30:48Z",
+  "desc": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
+  "url": "https://github.com/Ikalus1988/MisakaNet"
 }
 {
-  "name": "cindy",
-  "full_name": "makecindy/cindy",
-  "updated": "2026-08-01T02:30:46Z",
-  "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-  "url": "https://github.com/makecindy/cindy"
+  "name": "ClaudeCode-Workflow-Lab",
+  "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
+  "updated": "2026-08-02T02:30:31Z",
+  "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
+  "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
 }
 {
-  "name": "PettingZoo",
-  "full_name": "Farama-Foundation/PettingZoo",
-  "updated": "2026-08-01T02:28:27Z",
-  "desc": "A standard API for multi-agent reinforcement learning environments, with popular reference environments and related utilities",
-  "url": "https://github.com/Farama-Foundation/PettingZoo"
+  "name": "commonly",
+  "full_name": "Team-Commonly/commonly",
+  "updated": "2026-08-02T02:30:07Z",
+  "desc": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infra — no per-agent fees.",
+  "url": "https://github.com/Team-Commonly/commonly"
 }
 {
-  "name": "managed-agents",
-  "full_name": "sandbaseai/managed-agents",
-  "updated": "2026-08-01T02:27:43Z",
-  "desc": "Open-source CMA-compatible agent runtime. Run multi-agent systems locally with any model (Ollama/vLLM/Claude/GPT), MCP tools, scenario templates, and a beautiful dashboard. One command start. Built for enterprise teams.",
-  "url": "https://github.com/sandbaseai/managed-agents"
+  "name": "echo-agent",
+  "full_name": "fuyuxiang/echo-agent",
+  "updated": "2026-08-02T02:30:05Z",
+  "desc": "Echo Agent 是一个可自托管、长期运行、持续学习的 AI Agent，面向个人与团队的私有自动化场景。它可以部署在自有服务器上，统一连接模型、工具、记忆、权限与消息入口。内置四层认知记忆、遗忘曲线与矛盾检测机制，能够在跨会话任务中持续沉淀上下文，并保持长期记忆的质量。针对命令执行、文件操作等高风险行为，它提供基于 LLM 的审批与解释机制，为关键操作建立可审计、可追溯的安全边界。原生支持 MCP、A2A、多模型路由、任务调度、工具调用和多通道接入，覆盖 CLI、Gateway API、微信、Telegram 等入口。它让 Agent 带着长期记忆和可进化技能，持续、安全地为你工作。",
+  "url": "https://github.com/fuyuxiang/echo-agent"
 }
