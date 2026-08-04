@@ -1,70 +1,70 @@
 {
-  "name": "jiuwenswarm",
-  "full_name": "openJiuwen-ai/jiuwenswarm",
-  "updated": "2026-08-03T02:36:28Z",
-  "desc": "JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingertips through various communication apps you use daily.",
-  "url": "https://github.com/openJiuwen-ai/jiuwenswarm"
+  "name": "trpc-agent-go",
+  "full_name": "trpc-group/trpc-agent-go",
+  "updated": "2026-08-04T02:19:38Z",
+  "desc": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability.",
+  "url": "https://github.com/trpc-group/trpc-agent-go"
 }
 {
-  "name": "claude_codex_bridge",
-  "full_name": "SeemSeam/claude_codex_bridge",
-  "updated": "2026-08-03T02:35:57Z",
-  "desc": "Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents",
-  "url": "https://github.com/SeemSeam/claude_codex_bridge"
+  "name": "doris",
+  "full_name": "apache/doris",
+  "updated": "2026-08-04T02:18:55Z",
+  "desc": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
+  "url": "https://github.com/apache/doris"
 }
 {
-  "name": "awesome-agent-skills",
-  "full_name": "JackyST0/awesome-agent-skills",
-  "updated": "2026-08-03T02:35:24Z",
-  "desc": "🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具",
-  "url": "https://github.com/JackyST0/awesome-agent-skills"
+  "name": "kody",
+  "full_name": "kentcdodds/kody",
+  "updated": "2026-08-04T02:18:49Z",
+  "desc": "Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare Workers.",
+  "url": "https://github.com/kentcdodds/kody"
 }
 {
-  "name": "pinvou-agent",
-  "full_name": "Pinvou/pinvou-agent",
-  "updated": "2026-08-03T02:34:34Z",
-  "desc": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-  "url": "https://github.com/Pinvou/pinvou-agent"
+  "name": "tinybot",
+  "full_name": "SudoJacky/tinybot",
+  "updated": "2026-08-04T02:18:40Z",
+  "desc": "Tinybot is a lightweight personal AI Agent that is constantly evolving",
+  "url": "https://github.com/SudoJacky/tinybot"
 }
 {
-  "name": "loki-mode",
-  "full_name": "asklokesh/loki-mode",
-  "updated": "2026-08-03T02:34:19Z",
-  "desc": "Multi-agent autonomous SDLC framework. Spec to deployed app. PRD, GitHub issue, OpenAPI/JSON/YAML, or one-line brief. 5 AI providers, 8 quality gates.",
-  "url": "https://github.com/asklokesh/loki-mode"
+  "name": "ai-agent-book",
+  "full_name": "bojieli/ai-agent-book",
+  "updated": "2026-08-04T02:19:39Z",
+  "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+  "url": "https://github.com/bojieli/ai-agent-book"
 }
 {
-  "name": "browser-use",
-  "full_name": "browser-use/browser-use",
-  "updated": "2026-08-03T02:35:27Z",
-  "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-  "url": "https://github.com/browser-use/browser-use"
-}
-{
-  "name": "nodedb",
-  "full_name": "NodeDB-Lab/nodedb",
-  "updated": "2026-08-03T02:33:34Z",
-  "desc": "The memory & storage engine for AI agents. Multi-model, edge-to-cloud, PostgreSQL-compatible.",
-  "url": "https://github.com/NodeDB-Lab/nodedb"
-}
-{
-  "name": "pdf-reader-mcp",
-  "full_name": "SylphxAI/pdf-reader-mcp",
-  "updated": "2026-08-03T02:33:30Z",
-  "desc": "Give your AI agent eyes for PDFs — structured text, tables, OCR, visual evidence, and page-level citations via MCP. Native Rust, local-first.",
-  "url": "https://github.com/SylphxAI/pdf-reader-mcp"
-}
-{
-  "name": "clawbench",
-  "full_name": "clawbench-dev/clawbench",
-  "updated": "2026-08-03T02:33:05Z",
-  "desc": "为移动端打造的 AI 工作台 — 在手机、平板上完整集成主流AI智能体。单文件，零依赖，一键部署。 | Mobile-first AI workstation — full integration of mainstream AI agents on phone & tablet. Single binary, zero dependencies, one-click deploy.",
-  "url": "https://github.com/clawbench-dev/clawbench"
+  "name": "dingtalk-workspace-cli",
+  "full_name": "DingTalk-Real-AI/dingtalk-workspace-cli",
+  "updated": "2026-08-04T02:16:33Z",
+  "desc": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
+  "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli"
 }
 {
   "name": "neuro-book",
   "full_name": "notnotype/neuro-book",
-  "updated": "2026-08-03T02:36:07Z",
+  "updated": "2026-08-04T02:19:53Z",
   "desc": "An AI-powered IDE for long-form fiction writing, combining software engineering workflows, modern storytelling methodologies, and multi-agent systems.",
   "url": "https://github.com/notnotype/neuro-book"
+}
+{
+  "name": "openai-agents-python",
+  "full_name": "openai/openai-agents-python",
+  "updated": "2026-08-04T02:16:10Z",
+  "desc": "A lightweight, powerful framework for multi-agent workflows",
+  "url": "https://github.com/openai/openai-agents-python"
+}
+{
+  "name": "kuri",
+  "full_name": "justrach/kuri",
+  "updated": "2026-08-04T02:15:55Z",
+  "desc": "Browser automation, web crawling, and iOS + Android device control for AI agents. Zig-native, token-efficient CDP snapshots, HAR recording, native adb wire-protocol client, and a standalone fetcher.",
+  "url": "https://github.com/justrach/kuri"
+}
+{
+  "name": "teamclaw",
+  "full_name": "different-ai-studio/teamclaw",
+  "updated": "2026-08-04T02:15:40Z",
+  "desc": "TeamClaw, AI Agent Desktop Workspace",
+  "url": "https://github.com/different-ai-studio/teamclaw"
 }
