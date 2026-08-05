@@ -1,70 +1,70 @@
 {
-  "name": "trpc-agent-go",
-  "full_name": "trpc-group/trpc-agent-go",
-  "updated": "2026-08-04T02:19:38Z",
-  "desc": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability.",
-  "url": "https://github.com/trpc-group/trpc-agent-go"
+  "name": "SWE-AF",
+  "full_name": "Agent-Field/SWE-AF",
+  "updated": "2026-08-03T19:28:14Z",
+  "desc": "Autonomous software engineering fleet of AI agents for production-grade PRs on AgentField: plan, code, test, and ship.",
+  "url": "https://github.com/Agent-Field/SWE-AF"
 }
 {
-  "name": "doris",
-  "full_name": "apache/doris",
-  "updated": "2026-08-04T02:18:55Z",
-  "desc": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
-  "url": "https://github.com/apache/doris"
+  "name": "opencomputer",
+  "full_name": "diggerhq/opencomputer",
+  "updated": "2026-08-05T02:21:19Z",
+  "desc": "Secure cloud computers for AI agents.",
+  "url": "https://github.com/diggerhq/opencomputer"
 }
 {
-  "name": "kody",
-  "full_name": "kentcdodds/kody",
-  "updated": "2026-08-04T02:18:49Z",
-  "desc": "Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare Workers.",
-  "url": "https://github.com/kentcdodds/kody"
+  "name": "openagents",
+  "full_name": "openagents-org/openagents",
+  "updated": "2026-08-05T02:20:29Z",
+  "desc": "OpenAgents - AI Agent Networks for Open Collaboration",
+  "url": "https://github.com/openagents-org/openagents"
 }
 {
-  "name": "tinybot",
-  "full_name": "SudoJacky/tinybot",
-  "updated": "2026-08-04T02:18:40Z",
-  "desc": "Tinybot is a lightweight personal AI Agent that is constantly evolving",
-  "url": "https://github.com/SudoJacky/tinybot"
+  "name": "nanobot",
+  "full_name": "HKUDS/nanobot",
+  "updated": "2026-08-05T02:18:52Z",
+  "desc": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
+  "url": "https://github.com/HKUDS/nanobot"
 }
 {
-  "name": "ai-agent-book",
-  "full_name": "bojieli/ai-agent-book",
-  "updated": "2026-08-04T02:19:39Z",
-  "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-  "url": "https://github.com/bojieli/ai-agent-book"
+  "name": "aidevops",
+  "full_name": "marcusquinn/aidevops",
+  "updated": "2026-08-05T02:18:38Z",
+  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
+  "url": "https://github.com/marcusquinn/aidevops"
 }
 {
-  "name": "dingtalk-workspace-cli",
-  "full_name": "DingTalk-Real-AI/dingtalk-workspace-cli",
-  "updated": "2026-08-04T02:16:33Z",
-  "desc": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
-  "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli"
+  "name": "agentops",
+  "full_name": "boshu2/agentops",
+  "updated": "2026-08-05T02:18:35Z",
+  "desc": "The operating loop a coding agent follows — and skills to orchestrate multi-agent systems.",
+  "url": "https://github.com/boshu2/agentops"
 }
 {
-  "name": "neuro-book",
-  "full_name": "notnotype/neuro-book",
-  "updated": "2026-08-04T02:19:53Z",
-  "desc": "An AI-powered IDE for long-form fiction writing, combining software engineering workflows, modern storytelling methodologies, and multi-agent systems.",
-  "url": "https://github.com/notnotype/neuro-book"
+  "name": "Crayotter",
+  "full_name": "idwts/Crayotter",
+  "updated": "2026-08-05T02:18:04Z",
+  "desc": "🦦 Crayotter: A Multimodal AI-Agent for Video-Editing, Video-Composing, and Video Production. Powered by Multimodal LLMs for autonomous Text-to-Video agentic framework. | 基于多模态大模型 (Multimodal LLMs) 的 AI 剪辑智能体，支持从文字需求到视频成品的端到端全自动生产与创作。",
+  "url": "https://github.com/idwts/Crayotter"
 }
 {
-  "name": "openai-agents-python",
-  "full_name": "openai/openai-agents-python",
-  "updated": "2026-08-04T02:16:10Z",
-  "desc": "A lightweight, powerful framework for multi-agent workflows",
-  "url": "https://github.com/openai/openai-agents-python"
+  "name": "jiuwenswarm",
+  "full_name": "openJiuwen-ai/jiuwenswarm",
+  "updated": "2026-08-05T02:18:09Z",
+  "desc": "JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingertips through various communication apps you use daily.",
+  "url": "https://github.com/openJiuwen-ai/jiuwenswarm"
 }
 {
-  "name": "kuri",
-  "full_name": "justrach/kuri",
-  "updated": "2026-08-04T02:15:55Z",
-  "desc": "Browser automation, web crawling, and iOS + Android device control for AI agents. Zig-native, token-efficient CDP snapshots, HAR recording, native adb wire-protocol client, and a standalone fetcher.",
-  "url": "https://github.com/justrach/kuri"
+  "name": "oh-my-opencode-slim",
+  "full_name": "alvinunreal/oh-my-opencode-slim",
+  "updated": "2026-08-05T02:17:27Z",
+  "desc": "Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate tasks",
+  "url": "https://github.com/alvinunreal/oh-my-opencode-slim"
 }
 {
-  "name": "teamclaw",
-  "full_name": "different-ai-studio/teamclaw",
-  "updated": "2026-08-04T02:15:40Z",
-  "desc": "TeamClaw, AI Agent Desktop Workspace",
-  "url": "https://github.com/different-ai-studio/teamclaw"
+  "name": "PhysiClaw",
+  "full_name": "physiclaw/PhysiClaw",
+  "updated": "2026-08-05T02:16:04Z",
+  "desc": "The AI agent that interacts with you in the real world.",
+  "url": "https://github.com/physiclaw/PhysiClaw"
 }
