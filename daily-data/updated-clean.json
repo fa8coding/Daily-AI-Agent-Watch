@@ -1,70 +1,70 @@
 {
-  "name": "SWE-AF",
-  "full_name": "Agent-Field/SWE-AF",
-  "updated": "2026-08-03T19:28:14Z",
-  "desc": "Autonomous software engineering fleet of AI agents for production-grade PRs on AgentField: plan, code, test, and ship.",
-  "url": "https://github.com/Agent-Field/SWE-AF"
+  "name": "pinvou-agent",
+  "full_name": "Pinvou/pinvou-agent",
+  "updated": "2026-08-06T02:23:21Z",
+  "desc": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
+  "url": "https://github.com/Pinvou/pinvou-agent"
 }
 {
-  "name": "opencomputer",
-  "full_name": "diggerhq/opencomputer",
-  "updated": "2026-08-05T02:21:19Z",
-  "desc": "Secure cloud computers for AI agents.",
-  "url": "https://github.com/diggerhq/opencomputer"
+  "name": "OpenMAIC",
+  "full_name": "THU-MAIC/OpenMAIC",
+  "updated": "2026-08-06T02:23:16Z",
+  "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+  "url": "https://github.com/THU-MAIC/OpenMAIC"
 }
 {
-  "name": "openagents",
-  "full_name": "openagents-org/openagents",
-  "updated": "2026-08-05T02:20:29Z",
-  "desc": "OpenAgents - AI Agent Networks for Open Collaboration",
-  "url": "https://github.com/openagents-org/openagents"
+  "name": "compozy",
+  "full_name": "compozy/compozy",
+  "updated": "2026-08-06T02:22:50Z",
+  "desc": "An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory. You steer everything from the browser.",
+  "url": "https://github.com/compozy/compozy"
 }
 {
-  "name": "nanobot",
-  "full_name": "HKUDS/nanobot",
-  "updated": "2026-08-05T02:18:52Z",
-  "desc": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
-  "url": "https://github.com/HKUDS/nanobot"
+  "name": "commonly",
+  "full_name": "Team-Commonly/commonly",
+  "updated": "2026-08-06T02:22:47Z",
+  "desc": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infra — no per-agent fees.",
+  "url": "https://github.com/Team-Commonly/commonly"
 }
 {
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-08-05T02:18:38Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
-  "url": "https://github.com/marcusquinn/aidevops"
+  "name": "lobu",
+  "full_name": "lobu-ai/lobu",
+  "updated": "2026-08-06T02:22:44Z",
+  "desc": "Open-source control plane and runtime for organisational agents: shared company context, isolated execution, approvals and MCP.",
+  "url": "https://github.com/lobu-ai/lobu"
 }
 {
-  "name": "agentops",
-  "full_name": "boshu2/agentops",
-  "updated": "2026-08-05T02:18:35Z",
-  "desc": "The operating loop a coding agent follows — and skills to orchestrate multi-agent systems.",
-  "url": "https://github.com/boshu2/agentops"
+  "name": "opencode-swarm",
+  "full_name": "ZaxbyHub/opencode-swarm",
+  "updated": "2026-08-06T02:22:00Z",
+  "desc": "  Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.",
+  "url": "https://github.com/ZaxbyHub/opencode-swarm"
 }
 {
-  "name": "Crayotter",
-  "full_name": "idwts/Crayotter",
-  "updated": "2026-08-05T02:18:04Z",
-  "desc": "🦦 Crayotter: A Multimodal AI-Agent for Video-Editing, Video-Composing, and Video Production. Powered by Multimodal LLMs for autonomous Text-to-Video agentic framework. | 基于多模态大模型 (Multimodal LLMs) 的 AI 剪辑智能体，支持从文字需求到视频成品的端到端全自动生产与创作。",
-  "url": "https://github.com/idwts/Crayotter"
+  "name": "teamclaw",
+  "full_name": "different-ai-studio/teamclaw",
+  "updated": "2026-08-06T02:20:53Z",
+  "desc": "TeamClaw, AI Agent Desktop Workspace",
+  "url": "https://github.com/different-ai-studio/teamclaw"
 }
 {
-  "name": "jiuwenswarm",
-  "full_name": "openJiuwen-ai/jiuwenswarm",
-  "updated": "2026-08-05T02:18:09Z",
-  "desc": "JiuwenSwarm is an intelligent AI Agent built on openJiuwen. It extends the powerful capabilities of large language models directly to your fingertips through various communication apps you use daily.",
-  "url": "https://github.com/openJiuwen-ai/jiuwenswarm"
+  "name": "cherry-studio",
+  "full_name": "CherryHQ/cherry-studio",
+  "updated": "2026-08-06T02:22:58Z",
+  "desc": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+  "url": "https://github.com/CherryHQ/cherry-studio"
 }
 {
-  "name": "oh-my-opencode-slim",
-  "full_name": "alvinunreal/oh-my-opencode-slim",
-  "updated": "2026-08-05T02:17:27Z",
-  "desc": "Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate tasks",
-  "url": "https://github.com/alvinunreal/oh-my-opencode-slim"
+  "name": "goose",
+  "full_name": "aaif-goose/goose",
+  "updated": "2026-08-06T02:18:29Z",
+  "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+  "url": "https://github.com/aaif-goose/goose"
 }
 {
-  "name": "PhysiClaw",
-  "full_name": "physiclaw/PhysiClaw",
-  "updated": "2026-08-05T02:16:04Z",
-  "desc": "The AI agent that interacts with you in the real world.",
-  "url": "https://github.com/physiclaw/PhysiClaw"
+  "name": "guaardvark",
+  "full_name": "guaardvark/guaardvark",
+  "updated": "2026-08-06T02:18:24Z",
+  "desc": "The self-hosted AI workstation. Autonomous screen agents, 3-tier neural routing, parallel agent swarms, video generation, 4K/8K upscaling, RAG, voice interface, 70+ tool execution engine — all running locally on your hardware.",
+  "url": "https://github.com/guaardvark/guaardvark"
 }
