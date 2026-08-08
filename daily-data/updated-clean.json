@@ -1,70 +1,70 @@
 {
-  "name": "studio",
-  "full_name": "decocms/studio",
-  "updated": "2026-08-07T02:32:59Z",
-  "desc": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
-  "url": "https://github.com/decocms/studio"
+  "name": "flyto-core",
+  "full_name": "flytohub/flyto-core",
+  "updated": "2026-08-08T01:22:31Z",
+  "desc": "Flyto2 Core is the open-source execution kernel for automation and AI-agent workflows: 452 registry-backed modules, MCP-native transport, YAML recipes, evidence capture, replay, triggers, queue, versioning, and metering.",
+  "url": "https://github.com/flytohub/flyto-core"
 }
 {
-  "name": "doris",
-  "full_name": "apache/doris",
-  "updated": "2026-08-07T02:32:55Z",
-  "desc": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
-  "url": "https://github.com/apache/doris"
+  "name": "MisakaNet",
+  "full_name": "Ikalus1988/MisakaNet",
+  "updated": "2026-08-08T01:21:55Z",
+  "desc": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
+  "url": "https://github.com/Ikalus1988/MisakaNet"
 }
 {
-  "name": "arcbox",
-  "full_name": "arcboxlabs/arcbox",
-  "updated": "2026-08-07T02:32:37Z",
-  "desc": "Run AI agents on real and isolated machines — own kernel, filesystem, and network — with <100ms boot. Local first, OCI compatible, pure Rust.",
-  "url": "https://github.com/arcboxlabs/arcbox"
+  "name": "ai-agent-book",
+  "full_name": "bojieli/ai-agent-book",
+  "updated": "2026-08-08T01:21:52Z",
+  "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+  "url": "https://github.com/bojieli/ai-agent-book"
 }
 {
-  "name": "openchamber",
-  "full_name": "openchamber/openchamber",
-  "updated": "2026-08-07T02:33:05Z",
-  "desc": "Desktop and web interface for OpenCode AI agent",
-  "url": "https://github.com/openchamber/openchamber"
+  "name": "open-connector",
+  "full_name": "oomol-lab/open-connector",
+  "updated": "2026-08-08T01:21:36Z",
+  "desc": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+  "url": "https://github.com/oomol-lab/open-connector"
 }
 {
-  "name": "omnigent",
-  "full_name": "omnigent-ai/omnigent",
-  "updated": "2026-08-07T02:31:30Z",
-  "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-  "url": "https://github.com/omnigent-ai/omnigent"
+  "name": "ongrid",
+  "full_name": "ongridio/ongrid",
+  "updated": "2026-08-08T01:21:26Z",
+  "desc": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, Lark or DingTalk.",
+  "url": "https://github.com/ongridio/ongrid"
 }
 {
-  "name": "atom",
-  "full_name": "rush86999/atom",
-  "updated": "2026-08-07T02:31:26Z",
-  "desc": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-  "url": "https://github.com/rush86999/atom"
+  "name": "opencouncil-contract-inspector",
+  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
+  "updated": "2026-08-08T01:21:03Z",
+  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
+  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
-  "name": "openai-agents-js",
-  "full_name": "openai/openai-agents-js",
-  "updated": "2026-08-07T02:30:30Z",
-  "desc": "A lightweight, powerful framework for multi-agent workflows and voice agents",
-  "url": "https://github.com/openai/openai-agents-js"
+  "name": "surf-cli",
+  "full_name": "nicobailon/surf-cli",
+  "updated": "2026-08-08T01:20:24Z",
+  "desc": "The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tested.",
+  "url": "https://github.com/nicobailon/surf-cli"
 }
 {
-  "name": "kody",
-  "full_name": "kentcdodds/kody",
-  "updated": "2026-08-07T02:30:11Z",
-  "desc": "🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare Workers.",
-  "url": "https://github.com/kentcdodds/kody"
+  "name": "Zoo-Code",
+  "full_name": "Zoo-Code-Org/Zoo-Code",
+  "updated": "2026-08-08T01:19:45Z",
+  "desc": "Zoo Code gives you a whole dev team of AI agents in your code editor.",
+  "url": "https://github.com/Zoo-Code-Org/Zoo-Code"
 }
 {
-  "name": "cli",
-  "full_name": "larksuite/cli",
-  "updated": "2026-08-07T02:32:45Z",
-  "desc": "The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
-  "url": "https://github.com/larksuite/cli"
+  "name": "ClaudeCode-Workflow-Lab",
+  "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
+  "updated": "2026-08-08T01:19:39Z",
+  "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
+  "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
 }
 {
-  "name": "openai-agents-python",
-  "full_name": "openai/openai-agents-python",
-  "updated": "2026-08-07T02:29:50Z",
-  "desc": "A lightweight, powerful framework for multi-agent workflows",
-  "url": "https://github.com/openai/openai-agents-python"
+  "name": "pdf-reader-mcp",
+  "full_name": "SylphxAI/pdf-reader-mcp",
+  "updated": "2026-08-08T01:16:48Z",
+  "desc": "Give your AI agent eyes for PDFs — structured text, tables, OCR, visual evidence, and page-level citations via MCP. Native Rust, local-first.",
+  "url": "https://github.com/SylphxAI/pdf-reader-mcp"
 }
