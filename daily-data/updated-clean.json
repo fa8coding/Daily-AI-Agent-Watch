@@ -1,70 +1,70 @@
 {
-  "name": "flyto-core",
-  "full_name": "flytohub/flyto-core",
-  "updated": "2026-08-08T01:22:31Z",
-  "desc": "Flyto2 Core is the open-source execution kernel for automation and AI-agent workflows: 452 registry-backed modules, MCP-native transport, YAML recipes, evidence capture, replay, triggers, queue, versioning, and metering.",
-  "url": "https://github.com/flytohub/flyto-core"
+  "name": "local-operator",
+  "full_name": "damianvtran/local-operator",
+  "updated": "2026-08-09T01:27:19Z",
+  "desc": "AI agents platform that gives you a workspace with an integrated team of personal assistants that can work behind the scenes to handle daily monotonous tasks.",
+  "url": "https://github.com/damianvtran/local-operator"
 }
 {
-  "name": "MisakaNet",
-  "full_name": "Ikalus1988/MisakaNet",
-  "updated": "2026-08-08T01:21:55Z",
-  "desc": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
-  "url": "https://github.com/Ikalus1988/MisakaNet"
+  "name": "signetai",
+  "full_name": "Signet-AI/signetai",
+  "updated": "2026-08-09T01:27:15Z",
+  "desc": "local-first memory and context layer for AI agents",
+  "url": "https://github.com/Signet-AI/signetai"
 }
 {
-  "name": "ai-agent-book",
-  "full_name": "bojieli/ai-agent-book",
-  "updated": "2026-08-08T01:21:52Z",
-  "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-  "url": "https://github.com/bojieli/ai-agent-book"
-}
-{
-  "name": "open-connector",
-  "full_name": "oomol-lab/open-connector",
-  "updated": "2026-08-08T01:21:36Z",
-  "desc": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-  "url": "https://github.com/oomol-lab/open-connector"
-}
-{
-  "name": "ongrid",
-  "full_name": "ongridio/ongrid",
-  "updated": "2026-08-08T01:21:26Z",
-  "desc": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, Lark or DingTalk.",
-  "url": "https://github.com/ongridio/ongrid"
+  "name": "Argus",
+  "full_name": "gy15901580825/Argus",
+  "updated": "2026-08-09T01:27:06Z",
+  "desc": "Black-box, open-source red-team testing for AI agents. Point Argus at any HTTP, gRPC, or browser-using agent endpoint, run 500+ adversarial probes (OWASP LLM Top 10, MITRE ATLAS, NIST AI RMF, TAP/PAIR/GCG), get LLM-judged findings as SARIF, gate CI via GitHub Code Scanning. Ships with CLI + GH Action.",
+  "url": "https://github.com/gy15901580825/Argus"
 }
 {
   "name": "opencouncil-contract-inspector",
   "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-08-08T01:21:03Z",
+  "updated": "2026-08-09T01:26:19Z",
   "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
   "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
-  "name": "surf-cli",
-  "full_name": "nicobailon/surf-cli",
-  "updated": "2026-08-08T01:20:24Z",
-  "desc": "The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tested.",
-  "url": "https://github.com/nicobailon/surf-cli"
+  "name": "bitterbot-desktop",
+  "full_name": "Bitterbot-AI/bitterbot-desktop",
+  "updated": "2026-08-09T01:26:11Z",
+  "desc": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
+  "url": "https://github.com/Bitterbot-AI/bitterbot-desktop"
 }
 {
-  "name": "Zoo-Code",
-  "full_name": "Zoo-Code-Org/Zoo-Code",
-  "updated": "2026-08-08T01:19:45Z",
-  "desc": "Zoo Code gives you a whole dev team of AI agents in your code editor.",
-  "url": "https://github.com/Zoo-Code-Org/Zoo-Code"
+  "name": "adk-python",
+  "full_name": "google/adk-python",
+  "updated": "2026-08-09T01:25:15Z",
+  "desc": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+  "url": "https://github.com/google/adk-python"
+}
+{
+  "name": "edgeever",
+  "full_name": "tianma-if/edgeever",
+  "updated": "2026-08-09T01:25:06Z",
+  "desc": "Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器、0费用、原生支持 AI Agent 的开源自托管『印象笔记』",
+  "url": "https://github.com/tianma-if/edgeever"
 }
 {
   "name": "ClaudeCode-Workflow-Lab",
   "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
-  "updated": "2026-08-08T01:19:39Z",
+  "updated": "2026-08-09T01:24:57Z",
   "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
   "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
 }
 {
-  "name": "pdf-reader-mcp",
-  "full_name": "SylphxAI/pdf-reader-mcp",
-  "updated": "2026-08-08T01:16:48Z",
-  "desc": "Give your AI agent eyes for PDFs — structured text, tables, OCR, visual evidence, and page-level citations via MCP. Native Rust, local-first.",
-  "url": "https://github.com/SylphxAI/pdf-reader-mcp"
+  "name": "cindy",
+  "full_name": "makecindy/cindy",
+  "updated": "2026-08-09T01:25:01Z",
+  "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+  "url": "https://github.com/makecindy/cindy"
+}
+{
+  "name": "Zoo-Code",
+  "full_name": "Zoo-Code-Org/Zoo-Code",
+  "updated": "2026-08-09T01:26:44Z",
+  "desc": "Zoo Code gives you a whole dev team of AI agents in your code editor.",
+  "url": "https://github.com/Zoo-Code-Org/Zoo-Code"
 }
