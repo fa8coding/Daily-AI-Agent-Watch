@@ -1,70 +1,70 @@
 {
-  "name": "local-operator",
-  "full_name": "damianvtran/local-operator",
-  "updated": "2026-08-09T01:27:19Z",
-  "desc": "AI agents platform that gives you a workspace with an integrated team of personal assistants that can work behind the scenes to handle daily monotonous tasks.",
-  "url": "https://github.com/damianvtran/local-operator"
+  "name": "awesome-agent-skills",
+  "full_name": "JackyST0/awesome-agent-skills",
+  "updated": "2026-08-10T01:36:49Z",
+  "desc": "🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具",
+  "url": "https://github.com/JackyST0/awesome-agent-skills"
 }
 {
-  "name": "signetai",
-  "full_name": "Signet-AI/signetai",
-  "updated": "2026-08-09T01:27:15Z",
-  "desc": "local-first memory and context layer for AI agents",
-  "url": "https://github.com/Signet-AI/signetai"
+  "name": "atom",
+  "full_name": "rush86999/atom",
+  "updated": "2026-08-10T01:36:47Z",
+  "desc": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
+  "url": "https://github.com/rush86999/atom"
 }
 {
-  "name": "Argus",
-  "full_name": "gy15901580825/Argus",
-  "updated": "2026-08-09T01:27:06Z",
-  "desc": "Black-box, open-source red-team testing for AI agents. Point Argus at any HTTP, gRPC, or browser-using agent endpoint, run 500+ adversarial probes (OWASP LLM Top 10, MITRE ATLAS, NIST AI RMF, TAP/PAIR/GCG), get LLM-judged findings as SARIF, gate CI via GitHub Code Scanning. Ships with CLI + GH Action.",
-  "url": "https://github.com/gy15901580825/Argus"
-}
-{
-  "name": "opencouncil-contract-inspector",
-  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-08-09T01:26:19Z",
-  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
-  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-}
-{
-  "name": "bitterbot-desktop",
-  "full_name": "Bitterbot-AI/bitterbot-desktop",
-  "updated": "2026-08-09T01:26:11Z",
-  "desc": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
-  "url": "https://github.com/Bitterbot-AI/bitterbot-desktop"
-}
-{
-  "name": "adk-python",
-  "full_name": "google/adk-python",
-  "updated": "2026-08-09T01:25:15Z",
-  "desc": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-  "url": "https://github.com/google/adk-python"
-}
-{
-  "name": "edgeever",
-  "full_name": "tianma-if/edgeever",
-  "updated": "2026-08-09T01:25:06Z",
-  "desc": "Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器、0费用、原生支持 AI Agent 的开源自托管『印象笔记』",
-  "url": "https://github.com/tianma-if/edgeever"
-}
-{
-  "name": "ClaudeCode-Workflow-Lab",
-  "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
-  "updated": "2026-08-09T01:24:57Z",
-  "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
-  "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
+  "name": "lime",
+  "full_name": "limecloud/lime",
+  "updated": "2026-08-10T01:36:29Z",
+  "desc": "Full-stack AI agent for coding, files, terminals, tools, research, content, multimodal work, and multi-agent workflows.",
+  "url": "https://github.com/limecloud/lime"
 }
 {
   "name": "cindy",
   "full_name": "makecindy/cindy",
-  "updated": "2026-08-09T01:25:01Z",
+  "updated": "2026-08-10T01:36:21Z",
   "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
   "url": "https://github.com/makecindy/cindy"
 }
 {
-  "name": "Zoo-Code",
-  "full_name": "Zoo-Code-Org/Zoo-Code",
-  "updated": "2026-08-09T01:26:44Z",
-  "desc": "Zoo Code gives you a whole dev team of AI agents in your code editor.",
-  "url": "https://github.com/Zoo-Code-Org/Zoo-Code"
+  "name": "sim",
+  "full_name": "simstudioai/sim",
+  "updated": "2026-08-10T01:34:58Z",
+  "desc": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+  "url": "https://github.com/simstudioai/sim"
+}
+{
+  "name": "ContribAI",
+  "full_name": "tang-vu/ContribAI",
+  "updated": "2026-08-10T01:34:02Z",
+  "desc": "Autonomous AI agent that contributes to open source — discovers repos, analyzes code, generates fixes, and submits PRs",
+  "url": "https://github.com/tang-vu/ContribAI"
+}
+{
+  "name": "cli-agent-orchestrator",
+  "full_name": "awslabs/cli-agent-orchestrator",
+  "updated": "2026-08-10T01:33:13Z",
+  "desc": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions",
+  "url": "https://github.com/awslabs/cli-agent-orchestrator"
+}
+{
+  "name": "moai-adk",
+  "full_name": "modu-ai/moai-adk",
+  "updated": "2026-08-10T01:31:40Z",
+  "desc": "Agentic development harness for Claude Code — SPEC-driven plan/run/sync, TRUST 5 quality gates, model+effort routing, and Claude×GLM multi-LLM cost control. Single Go binary, 16 languages, zero deps.",
+  "url": "https://github.com/modu-ai/moai-adk"
+}
+{
+  "name": "doris",
+  "full_name": "apache/doris",
+  "updated": "2026-08-10T01:31:45Z",
+  "desc": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
+  "url": "https://github.com/apache/doris"
+}
+{
+  "name": "teamclu",
+  "full_name": "different-ai-studio/teamclu",
+  "updated": "2026-08-10T01:31:30Z",
+  "desc": "TeamClaw, AI Agent Desktop Workspace",
+  "url": "https://github.com/different-ai-studio/teamclu"
 }
