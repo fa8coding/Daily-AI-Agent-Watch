@@ -1,70 +1,70 @@
 {
-  "name": "awesome-agent-skills",
-  "full_name": "JackyST0/awesome-agent-skills",
-  "updated": "2026-08-10T01:36:49Z",
-  "desc": "🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具",
-  "url": "https://github.com/JackyST0/awesome-agent-skills"
+  "name": "studio",
+  "full_name": "decocms/studio",
+  "updated": "2026-08-11T01:27:27Z",
+  "desc": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
+  "url": "https://github.com/decocms/studio"
+}
+{
+  "name": "academic-commercialization-agent",
+  "full_name": "shuxiachai/academic-commercialization-agent",
+  "updated": "2026-08-11T01:26:13Z",
+  "desc": "Turn any research paper into a commercialization report — 6 AI agents, TRL/MRL scoring, patent landscape, market intelligence, verified citations. DeepSeek / OpenAI / Claude.",
+  "url": "https://github.com/shuxiachai/academic-commercialization-agent"
+}
+{
+  "name": "MisakaNet",
+  "full_name": "Ikalus1988/MisakaNet",
+  "updated": "2026-08-11T01:25:56Z",
+  "desc": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
+  "url": "https://github.com/Ikalus1988/MisakaNet"
+}
+{
+  "name": "opencouncil-contract-inspector",
+  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
+  "updated": "2026-08-11T01:25:46Z",
+  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
+  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+}
+{
+  "name": "terminal-bench-science",
+  "full_name": "harbor-framework/terminal-bench-science",
+  "updated": "2026-08-11T01:25:23Z",
+  "desc": "Terminal-Bench Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal",
+  "url": "https://github.com/harbor-framework/terminal-bench-science"
+}
+{
+  "name": "tracecat",
+  "full_name": "TracecatHQ/tracecat",
+  "updated": "2026-08-11T01:24:50Z",
+  "desc": "Open-source security automation platform for teams and AI agents",
+  "url": "https://github.com/TracecatHQ/tracecat"
+}
+{
+  "name": "ClaudeCode-Workflow-Lab",
+  "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
+  "updated": "2026-08-11T01:24:30Z",
+  "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
+  "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
 }
 {
   "name": "atom",
   "full_name": "rush86999/atom",
-  "updated": "2026-08-10T01:36:47Z",
+  "updated": "2026-08-11T01:22:41Z",
   "desc": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
   "url": "https://github.com/rush86999/atom"
 }
 {
-  "name": "lime",
-  "full_name": "limecloud/lime",
-  "updated": "2026-08-10T01:36:29Z",
-  "desc": "Full-stack AI agent for coding, files, terminals, tools, research, content, multimodal work, and multi-agent workflows.",
-  "url": "https://github.com/limecloud/lime"
+  "name": "adk-js",
+  "full_name": "google/adk-js",
+  "updated": "2026-08-11T01:22:10Z",
+  "desc": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+  "url": "https://github.com/google/adk-js"
 }
 {
-  "name": "cindy",
-  "full_name": "makecindy/cindy",
-  "updated": "2026-08-10T01:36:21Z",
-  "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-  "url": "https://github.com/makecindy/cindy"
-}
-{
-  "name": "sim",
-  "full_name": "simstudioai/sim",
-  "updated": "2026-08-10T01:34:58Z",
-  "desc": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-  "url": "https://github.com/simstudioai/sim"
-}
-{
-  "name": "ContribAI",
-  "full_name": "tang-vu/ContribAI",
-  "updated": "2026-08-10T01:34:02Z",
-  "desc": "Autonomous AI agent that contributes to open source — discovers repos, analyzes code, generates fixes, and submits PRs",
-  "url": "https://github.com/tang-vu/ContribAI"
-}
-{
-  "name": "cli-agent-orchestrator",
-  "full_name": "awslabs/cli-agent-orchestrator",
-  "updated": "2026-08-10T01:33:13Z",
-  "desc": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions",
-  "url": "https://github.com/awslabs/cli-agent-orchestrator"
-}
-{
-  "name": "moai-adk",
-  "full_name": "modu-ai/moai-adk",
-  "updated": "2026-08-10T01:31:40Z",
-  "desc": "Agentic development harness for Claude Code — SPEC-driven plan/run/sync, TRUST 5 quality gates, model+effort routing, and Claude×GLM multi-LLM cost control. Single Go binary, 16 languages, zero deps.",
-  "url": "https://github.com/modu-ai/moai-adk"
-}
-{
-  "name": "doris",
-  "full_name": "apache/doris",
-  "updated": "2026-08-10T01:31:45Z",
-  "desc": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
-  "url": "https://github.com/apache/doris"
-}
-{
-  "name": "teamclu",
-  "full_name": "different-ai-studio/teamclu",
-  "updated": "2026-08-10T01:31:30Z",
-  "desc": "TeamClaw, AI Agent Desktop Workspace",
-  "url": "https://github.com/different-ai-studio/teamclu"
+  "name": "crm",
+  "full_name": "trycompai/crm",
+  "updated": "2026-08-11T01:21:34Z",
+  "desc": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+  "url": "https://github.com/trycompai/crm"
 }
