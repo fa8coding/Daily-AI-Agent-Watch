@@ -1,70 +1,70 @@
 {
-  "name": "studio",
-  "full_name": "decocms/studio",
-  "updated": "2026-08-11T01:27:27Z",
-  "desc": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
-  "url": "https://github.com/decocms/studio"
-}
-{
-  "name": "academic-commercialization-agent",
-  "full_name": "shuxiachai/academic-commercialization-agent",
-  "updated": "2026-08-11T01:26:13Z",
-  "desc": "Turn any research paper into a commercialization report — 6 AI agents, TRL/MRL scoring, patent landscape, market intelligence, verified citations. DeepSeek / OpenAI / Claude.",
-  "url": "https://github.com/shuxiachai/academic-commercialization-agent"
-}
-{
-  "name": "MisakaNet",
-  "full_name": "Ikalus1988/MisakaNet",
-  "updated": "2026-08-11T01:25:56Z",
-  "desc": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
-  "url": "https://github.com/Ikalus1988/MisakaNet"
-}
-{
-  "name": "opencouncil-contract-inspector",
-  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-08-11T01:25:46Z",
-  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
-  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-}
-{
-  "name": "terminal-bench-science",
-  "full_name": "harbor-framework/terminal-bench-science",
-  "updated": "2026-08-11T01:25:23Z",
-  "desc": "Terminal-Bench Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal",
-  "url": "https://github.com/harbor-framework/terminal-bench-science"
-}
-{
-  "name": "tracecat",
-  "full_name": "TracecatHQ/tracecat",
-  "updated": "2026-08-11T01:24:50Z",
-  "desc": "Open-source security automation platform for teams and AI agents",
-  "url": "https://github.com/TracecatHQ/tracecat"
-}
-{
-  "name": "ClaudeCode-Workflow-Lab",
-  "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
-  "updated": "2026-08-11T01:24:30Z",
-  "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
-  "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
-}
-{
-  "name": "atom",
-  "full_name": "rush86999/atom",
-  "updated": "2026-08-11T01:22:41Z",
-  "desc": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-  "url": "https://github.com/rush86999/atom"
-}
-{
   "name": "adk-js",
   "full_name": "google/adk-js",
-  "updated": "2026-08-11T01:22:10Z",
+  "updated": "2026-08-12T01:44:46Z",
   "desc": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
   "url": "https://github.com/google/adk-js"
 }
 {
-  "name": "crm",
-  "full_name": "trycompai/crm",
-  "updated": "2026-08-11T01:21:34Z",
-  "desc": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
-  "url": "https://github.com/trycompai/crm"
+  "name": "tubecli",
+  "full_name": "tubecreate/tubecli",
+  "updated": "2026-08-12T01:44:06Z",
+  "desc": "⚡ TubeCLI — The Ultimate Open Source AI Agents Ecosystem | Agents Browser · Agents Workflow · Agents Studio World",
+  "url": "https://github.com/tubecreate/tubecli"
+}
+{
+  "name": "aidevops",
+  "full_name": "marcusquinn/aidevops",
+  "updated": "2026-08-12T01:43:51Z",
+  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
+  "url": "https://github.com/marcusquinn/aidevops"
+}
+{
+  "name": "opencouncil-contract-inspector",
+  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
+  "updated": "2026-08-12T01:43:12Z",
+  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
+  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+}
+{
+  "name": "openai-agents-js",
+  "full_name": "openai/openai-agents-js",
+  "updated": "2026-08-12T01:42:59Z",
+  "desc": "A lightweight, powerful framework for multi-agent workflows and voice agents",
+  "url": "https://github.com/openai/openai-agents-js"
+}
+{
+  "name": "ArcReel",
+  "full_name": "ArcReel/ArcReel",
+  "updated": "2026-08-12T01:42:45Z",
+  "desc": "AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production",
+  "url": "https://github.com/ArcReel/ArcReel"
+}
+{
+  "name": "academic-commercialization-agent",
+  "full_name": "shuxiachai/academic-commercialization-agent",
+  "updated": "2026-08-12T01:42:14Z",
+  "desc": "Turn any research paper into a commercialization report — 6 AI agents, TRL/MRL scoring, patent landscape, market intelligence, verified citations. DeepSeek / OpenAI / Claude.",
+  "url": "https://github.com/shuxiachai/academic-commercialization-agent"
+}
+{
+  "name": "hive",
+  "full_name": "aden-hive/hive",
+  "updated": "2026-08-12T01:41:50Z",
+  "desc": "Multi-Agent Harness for Production AI",
+  "url": "https://github.com/aden-hive/hive"
+}
+{
+  "name": "boxlite",
+  "full_name": "boxlite-ai/boxlite",
+  "updated": "2026-08-12T01:41:32Z",
+  "desc": "The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.",
+  "url": "https://github.com/boxlite-ai/boxlite"
+}
+{
+  "name": "ClaudeCode-Workflow-Lab",
+  "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
+  "updated": "2026-08-12T01:41:32Z",
+  "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
+  "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
 }
