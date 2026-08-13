@@ -1,70 +1,70 @@
 {
-  "name": "adk-js",
-  "full_name": "google/adk-js",
-  "updated": "2026-08-12T01:44:46Z",
-  "desc": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-  "url": "https://github.com/google/adk-js"
-}
-{
-  "name": "tubecli",
-  "full_name": "tubecreate/tubecli",
-  "updated": "2026-08-12T01:44:06Z",
-  "desc": "⚡ TubeCLI — The Ultimate Open Source AI Agents Ecosystem | Agents Browser · Agents Workflow · Agents Studio World",
-  "url": "https://github.com/tubecreate/tubecli"
-}
-{
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-08-12T01:43:51Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
-  "url": "https://github.com/marcusquinn/aidevops"
+  "name": "amux",
+  "full_name": "mixpeek/amux",
+  "updated": "2026-08-13T01:46:27Z",
+  "desc": "Open-source control plane for AI coding agents — run, monitor & orchestrate dozens of parallel Claude Code, Codex & Gemini sessions from one web dashboard or your phone. Self-healing, single-file, tmux-native.",
+  "url": "https://github.com/mixpeek/amux"
 }
 {
   "name": "opencouncil-contract-inspector",
   "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-08-12T01:43:12Z",
+  "updated": "2026-08-13T01:45:52Z",
   "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
   "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
-  "name": "openai-agents-js",
-  "full_name": "openai/openai-agents-js",
-  "updated": "2026-08-12T01:42:59Z",
-  "desc": "A lightweight, powerful framework for multi-agent workflows and voice agents",
-  "url": "https://github.com/openai/openai-agents-js"
+  "name": "ClaudeCode-Workflow-Lab",
+  "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
+  "updated": "2026-08-13T01:44:10Z",
+  "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
+  "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
 }
 {
-  "name": "ArcReel",
-  "full_name": "ArcReel/ArcReel",
-  "updated": "2026-08-12T01:42:45Z",
-  "desc": "AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production",
-  "url": "https://github.com/ArcReel/ArcReel"
+  "name": "agent-core",
+  "full_name": "openJiuwen-ai/agent-core",
+  "updated": "2026-08-13T01:44:03Z",
+  "desc": "openJiuwen agent-core provides a complete set of SDK capabilities related to AI Agent development, running, optimization, and evolution.",
+  "url": "https://github.com/openJiuwen-ai/agent-core"
 }
 {
-  "name": "academic-commercialization-agent",
-  "full_name": "shuxiachai/academic-commercialization-agent",
-  "updated": "2026-08-12T01:42:14Z",
-  "desc": "Turn any research paper into a commercialization report — 6 AI agents, TRL/MRL scoring, patent landscape, market intelligence, verified citations. DeepSeek / OpenAI / Claude.",
-  "url": "https://github.com/shuxiachai/academic-commercialization-agent"
+  "name": "lobu",
+  "full_name": "lobu-ai/lobu",
+  "updated": "2026-08-13T01:43:27Z",
+  "desc": "Open-source control plane and runtime for organisational agents: shared company context, isolated execution, approvals and MCP.",
+  "url": "https://github.com/lobu-ai/lobu"
+}
+{
+  "name": "atmos",
+  "full_name": "cloudposse/atmos",
+  "updated": "2026-08-13T01:43:26Z",
+  "desc": "Atmos is the open-source runtime for infrastructure — it builds, authenticates, and ships Terraform, OpenTofu, Kubernetes, Helm, and containers the same way on your laptop, in CI, and with AI agents.",
+  "url": "https://github.com/cloudposse/atmos"
+}
+{
+  "name": "CowAgent",
+  "full_name": "zhayujie/CowAgent",
+  "updated": "2026-08-13T01:44:05Z",
+  "desc": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+  "url": "https://github.com/zhayujie/CowAgent"
 }
 {
   "name": "hive",
   "full_name": "aden-hive/hive",
-  "updated": "2026-08-12T01:41:50Z",
+  "updated": "2026-08-13T01:42:33Z",
   "desc": "Multi-Agent Harness for Production AI",
   "url": "https://github.com/aden-hive/hive"
 }
 {
-  "name": "boxlite",
-  "full_name": "boxlite-ai/boxlite",
-  "updated": "2026-08-12T01:41:32Z",
-  "desc": "The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.",
-  "url": "https://github.com/boxlite-ai/boxlite"
+  "name": "OpenProgram",
+  "full_name": "Fzkuji/OpenProgram",
+  "updated": "2026-08-13T01:42:30Z",
+  "desc": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
+  "url": "https://github.com/Fzkuji/OpenProgram"
 }
 {
-  "name": "ClaudeCode-Workflow-Lab",
-  "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
-  "updated": "2026-08-12T01:41:32Z",
-  "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
-  "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
+  "name": "effGen",
+  "full_name": "ctrl-gaurav/effGen",
+  "updated": "2026-08-13T01:42:18Z",
+  "desc": "[ICML 2026] effGen: Enabling Small Language Models as Capable Autonomous Agents",
+  "url": "https://github.com/ctrl-gaurav/effGen"
 }
