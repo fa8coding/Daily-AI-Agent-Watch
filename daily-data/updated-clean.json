@@ -1,70 +1,70 @@
 {
-  "name": "amux",
-  "full_name": "mixpeek/amux",
-  "updated": "2026-08-13T01:46:27Z",
-  "desc": "Open-source control plane for AI coding agents — run, monitor & orchestrate dozens of parallel Claude Code, Codex & Gemini sessions from one web dashboard or your phone. Self-healing, single-file, tmux-native.",
-  "url": "https://github.com/mixpeek/amux"
+  "name": "Argus",
+  "full_name": "gy15901580825/Argus",
+  "updated": "2026-08-14T01:44:01Z",
+  "desc": "Black-box, open-source red-team testing for AI agents. Point Argus at any HTTP, gRPC, or browser-using agent endpoint, run 500+ adversarial probes (OWASP LLM Top 10, MITRE ATLAS, NIST AI RMF, TAP/PAIR/GCG), get LLM-judged findings as SARIF, gate CI via GitHub Code Scanning. Ships with CLI + GH Action.",
+  "url": "https://github.com/gy15901580825/Argus"
 }
 {
   "name": "opencouncil-contract-inspector",
   "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-08-13T01:45:52Z",
+  "updated": "2026-08-14T01:43:31Z",
   "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
   "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
+  "name": "DashClaw",
+  "full_name": "ucsandman/DashClaw",
+  "updated": "2026-08-14T01:43:22Z",
+  "desc": "🛡️ The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them remotely.",
+  "url": "https://github.com/ucsandman/DashClaw"
+}
+{
+  "name": "openai-agents-python",
+  "full_name": "openai/openai-agents-python",
+  "updated": "2026-08-14T01:42:52Z",
+  "desc": "A lightweight, powerful framework for multi-agent workflows",
+  "url": "https://github.com/openai/openai-agents-python"
+}
+{
+  "name": "nexent",
+  "full_name": "ModelEngine-Group/nexent",
+  "updated": "2026-08-14T01:42:19Z",
+  "desc": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.",
+  "url": "https://github.com/ModelEngine-Group/nexent"
+}
+{
   "name": "ClaudeCode-Workflow-Lab",
   "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
-  "updated": "2026-08-13T01:44:10Z",
+  "updated": "2026-08-14T01:41:59Z",
   "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
   "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
 }
 {
-  "name": "agent-core",
-  "full_name": "openJiuwen-ai/agent-core",
-  "updated": "2026-08-13T01:44:03Z",
-  "desc": "openJiuwen agent-core provides a complete set of SDK capabilities related to AI Agent development, running, optimization, and evolution.",
-  "url": "https://github.com/openJiuwen-ai/agent-core"
+  "name": "agent-orchestrator",
+  "full_name": "Untrivial-ai/agent-orchestrator",
+  "updated": "2026-08-14T01:41:16Z",
+  "desc": "Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.",
+  "url": "https://github.com/Untrivial-ai/agent-orchestrator"
+}
+{
+  "name": "osaurus",
+  "full_name": "osaurus-ai/osaurus",
+  "updated": "2026-08-14T01:40:54Z",
+  "desc": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
+  "url": "https://github.com/osaurus-ai/osaurus"
+}
+{
+  "name": "akari",
+  "full_name": "chenzhen7/akari",
+  "updated": "2026-08-14T01:39:48Z",
+  "desc": "Akari 是一个面向开发者团队的 AI Agent 并行开发管理平台。它基于 Git worktree 为每个会话创建完全隔离的工作区，让你能够同时启动多个 Agent（Claude Code、Kimi、Aider、Shell 等），通过统一界面查看状态、终端输出、代码 Diff，并在任务完成后统一 Review、合并回主干。",
+  "url": "https://github.com/chenzhen7/akari"
 }
 {
   "name": "lobu",
   "full_name": "lobu-ai/lobu",
-  "updated": "2026-08-13T01:43:27Z",
+  "updated": "2026-08-14T01:38:39Z",
   "desc": "Open-source control plane and runtime for organisational agents: shared company context, isolated execution, approvals and MCP.",
   "url": "https://github.com/lobu-ai/lobu"
-}
-{
-  "name": "atmos",
-  "full_name": "cloudposse/atmos",
-  "updated": "2026-08-13T01:43:26Z",
-  "desc": "Atmos is the open-source runtime for infrastructure — it builds, authenticates, and ships Terraform, OpenTofu, Kubernetes, Helm, and containers the same way on your laptop, in CI, and with AI agents.",
-  "url": "https://github.com/cloudposse/atmos"
-}
-{
-  "name": "CowAgent",
-  "full_name": "zhayujie/CowAgent",
-  "updated": "2026-08-13T01:44:05Z",
-  "desc": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
-  "url": "https://github.com/zhayujie/CowAgent"
-}
-{
-  "name": "hive",
-  "full_name": "aden-hive/hive",
-  "updated": "2026-08-13T01:42:33Z",
-  "desc": "Multi-Agent Harness for Production AI",
-  "url": "https://github.com/aden-hive/hive"
-}
-{
-  "name": "OpenProgram",
-  "full_name": "Fzkuji/OpenProgram",
-  "updated": "2026-08-13T01:42:30Z",
-  "desc": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
-  "url": "https://github.com/Fzkuji/OpenProgram"
-}
-{
-  "name": "effGen",
-  "full_name": "ctrl-gaurav/effGen",
-  "updated": "2026-08-13T01:42:18Z",
-  "desc": "[ICML 2026] effGen: Enabling Small Language Models as Capable Autonomous Agents",
-  "url": "https://github.com/ctrl-gaurav/effGen"
 }
