@@ -1,70 +1,70 @@
 {
-  "name": "pi-fabric",
-  "full_name": "monotykamary/pi-fabric",
-  "updated": "2026-08-15T01:05:15Z",
-  "desc": "A programmable tool and agent runtime for Pi",
-  "url": "https://github.com/monotykamary/pi-fabric"
+  "name": "terminal-bench-science",
+  "full_name": "harbor-framework/terminal-bench-science",
+  "updated": "2026-08-16T01:08:39Z",
+  "desc": "Terminal-Bench-Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal",
+  "url": "https://github.com/harbor-framework/terminal-bench-science"
+}
+{
+  "name": "clawmetry",
+  "full_name": "vivekchand/clawmetry",
+  "updated": "2026-08-16T01:08:33Z",
+  "desc": "See your agent think. Real-time observability for 14 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
+  "url": "https://github.com/vivekchand/clawmetry"
+}
+{
+  "name": "openai-agents-js",
+  "full_name": "openai/openai-agents-js",
+  "updated": "2026-08-16T01:08:10Z",
+  "desc": "A lightweight, powerful framework for multi-agent workflows and voice agents",
+  "url": "https://github.com/openai/openai-agents-js"
 }
 {
   "name": "opencouncil-contract-inspector",
   "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-08-15T01:04:28Z",
+  "updated": "2026-08-16T01:07:38Z",
   "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
   "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
+  "name": "mycelium",
+  "full_name": "mycelium-io/mycelium",
+  "updated": "2026-08-16T01:07:29Z",
+  "desc": "Multi-agent coordination + persistent memory, semantic negotiation, async rooms, and a shared knowledge graph",
+  "url": "https://github.com/mycelium-io/mycelium"
+}
+{
+  "name": "oh-my-claudecode",
+  "full_name": "Yeachan-Heo/oh-my-claudecode",
+  "updated": "2026-08-16T01:07:02Z",
+  "desc": "Teams-first Multi-agent orchestration for Claude Code",
+  "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
+}
+{
   "name": "ClaudeCode-Workflow-Lab",
   "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
-  "updated": "2026-08-15T01:03:19Z",
+  "updated": "2026-08-16T01:06:42Z",
   "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
   "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
 }
 {
-  "name": "houston",
-  "full_name": "gethouston/houston",
-  "updated": "2026-08-15T01:03:26Z",
-  "desc": "Open source platform for AI-native products. Pre-built AI agents with real tools and 1000+ integrations, in a Rust engine + Tauri desktop app. Free forever.",
-  "url": "https://github.com/gethouston/houston"
+  "name": "siyuan",
+  "full_name": "siyuan-note/siyuan",
+  "updated": "2026-08-16T01:07:41Z",
+  "desc": "An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作",
+  "url": "https://github.com/siyuan-note/siyuan"
 }
 {
-  "name": "saiku",
-  "full_name": "spiculedata/saiku",
-  "updated": "2026-08-15T01:02:38Z",
-  "desc": "Open-source semantic layer: one cube for Excel (MDX/XMLA), dashboards, and AI agents (MCP). Mondrian + Apache Calcite.",
-  "url": "https://github.com/spiculedata/saiku"
-}
-{
-  "name": "llm-agents-from-scratch",
-  "full_name": "nerdai/llm-agents-from-scratch",
-  "updated": "2026-08-15T01:02:43Z",
-  "desc": "Build LLM agents and multi-agent systems from scratch, with MCP, Skills, and A2A",
-  "url": "https://github.com/nerdai/llm-agents-from-scratch"
-}
-{
-  "name": "MisakaNet",
-  "full_name": "Ikalus1988/MisakaNet",
-  "updated": "2026-08-15T01:02:35Z",
-  "desc": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
-  "url": "https://github.com/Ikalus1988/MisakaNet"
+  "name": "agentrq",
+  "full_name": "agentrq/agentrq",
+  "updated": "2026-08-16T01:04:36Z",
+  "desc": "AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude subscriptions and any harness.",
+  "url": "https://github.com/agentrq/agentrq"
 }
 {
   "name": "hermes-agency-orchestrator",
   "full_name": "Sakshxm1/hermes-agency-orchestrator",
-  "updated": "2026-08-15T01:00:13Z",
+  "updated": "2026-08-16T01:03:32Z",
   "desc": "Claude Code Agent Workflows Guide 2026: Skills vs Teams vs Cost Analysis",
   "url": "https://github.com/Sakshxm1/hermes-agency-orchestrator"
-}
-{
-  "name": "agent-ecologies",
-  "full_name": "israriqbal/agent-ecologies",
-  "updated": "2026-08-15T01:00:04Z",
-  "desc": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-  "url": "https://github.com/israriqbal/agent-ecologies"
-}
-{
-  "name": "aiwg",
-  "full_name": "jmagly/aiwg",
-  "updated": "2026-08-15T00:59:34Z",
-  "desc": "Cognitive architecture for AI-augmented software development. Specialized agents, structured workflows, and multi-platform deployment. Claude Code · Codex · Copilot · Cursor · Factory · Warp · Windsurf.",
-  "url": "https://github.com/jmagly/aiwg"
 }
