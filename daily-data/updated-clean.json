@@ -1,70 +1,70 @@
 {
-  "name": "terminal-bench-science",
-  "full_name": "harbor-framework/terminal-bench-science",
-  "updated": "2026-08-16T01:08:39Z",
-  "desc": "Terminal-Bench-Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal",
-  "url": "https://github.com/harbor-framework/terminal-bench-science"
+  "name": "HashCortX",
+  "full_name": "Hash-7777/HashCortX",
+  "updated": "2026-08-17T01:06:19Z",
+  "desc": "A local-first AI workspace — multi-provider chat, an autonomous coding agent, 3D models, ERPs, and multi-agent swarms in one native desktop app. No backend. No telemetry. No account. MIT-licensed.",
+  "url": "https://github.com/Hash-7777/HashCortX"
 }
 {
-  "name": "clawmetry",
-  "full_name": "vivekchand/clawmetry",
-  "updated": "2026-08-16T01:08:33Z",
-  "desc": "See your agent think. Real-time observability for 14 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
-  "url": "https://github.com/vivekchand/clawmetry"
-}
-{
-  "name": "openai-agents-js",
-  "full_name": "openai/openai-agents-js",
-  "updated": "2026-08-16T01:08:10Z",
-  "desc": "A lightweight, powerful framework for multi-agent workflows and voice agents",
-  "url": "https://github.com/openai/openai-agents-js"
+  "name": "awesome-agent-skills",
+  "full_name": "JackyST0/awesome-agent-skills",
+  "updated": "2026-08-17T01:06:21Z",
+  "desc": "🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具",
+  "url": "https://github.com/JackyST0/awesome-agent-skills"
 }
 {
   "name": "opencouncil-contract-inspector",
   "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-08-16T01:07:38Z",
+  "updated": "2026-08-17T01:05:50Z",
   "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
   "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
-  "name": "mycelium",
-  "full_name": "mycelium-io/mycelium",
-  "updated": "2026-08-16T01:07:29Z",
-  "desc": "Multi-agent coordination + persistent memory, semantic negotiation, async rooms, and a shared knowledge graph",
-  "url": "https://github.com/mycelium-io/mycelium"
-}
-{
-  "name": "oh-my-claudecode",
-  "full_name": "Yeachan-Heo/oh-my-claudecode",
-  "updated": "2026-08-16T01:07:02Z",
-  "desc": "Teams-first Multi-agent orchestration for Claude Code",
-  "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
+  "name": "deepagents-in-action",
+  "full_name": "datawhalechina/deepagents-in-action",
+  "updated": "2026-08-17T01:05:28Z",
+  "desc": "📚 《Deep Agents 实战》—— LangChain 官方大使出品，基于 LangChain / LangGraph 生态，从零构建生产级 AI Agent 的完整指南",
+  "url": "https://github.com/datawhalechina/deepagents-in-action"
 }
 {
   "name": "ClaudeCode-Workflow-Lab",
   "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
-  "updated": "2026-08-16T01:06:42Z",
+  "updated": "2026-08-17T01:04:23Z",
   "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
   "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
 }
 {
-  "name": "siyuan",
-  "full_name": "siyuan-note/siyuan",
-  "updated": "2026-08-16T01:07:41Z",
-  "desc": "An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作",
-  "url": "https://github.com/siyuan-note/siyuan"
+  "name": "clawmetry",
+  "full_name": "vivekchand/clawmetry",
+  "updated": "2026-08-17T01:04:08Z",
+  "desc": "See your agent think. Zero-config observability & governance for 20+ AI agent runtimes: OpenClaw, Claude Code, OpenAI Codex, Cursor, Aider, Goose, NVIDIA NemoClaw, NanoClaw & more. Live token costs, sessions, tool calls, crons.",
+  "url": "https://github.com/vivekchand/clawmetry"
 }
 {
-  "name": "agentrq",
-  "full_name": "agentrq/agentrq",
-  "updated": "2026-08-16T01:04:36Z",
-  "desc": "AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude subscriptions and any harness.",
-  "url": "https://github.com/agentrq/agentrq"
+  "name": "agent-ecologies",
+  "full_name": "israriqbal/agent-ecologies",
+  "updated": "2026-08-17T01:01:21Z",
+  "desc": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+  "url": "https://github.com/israriqbal/agent-ecologies"
 }
 {
   "name": "hermes-agency-orchestrator",
   "full_name": "Sakshxm1/hermes-agency-orchestrator",
-  "updated": "2026-08-16T01:03:32Z",
+  "updated": "2026-08-17T01:01:17Z",
   "desc": "Claude Code Agent Workflows Guide 2026: Skills vs Teams vs Cost Analysis",
   "url": "https://github.com/Sakshxm1/hermes-agency-orchestrator"
+}
+{
+  "name": "gemini-cli",
+  "full_name": "google-gemini/gemini-cli",
+  "updated": "2026-08-17T01:06:08Z",
+  "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+  "url": "https://github.com/google-gemini/gemini-cli"
+}
+{
+  "name": "DashClaw",
+  "full_name": "ucsandman/DashClaw",
+  "updated": "2026-08-17T00:59:58Z",
+  "desc": "🛡️ The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them remotely.",
+  "url": "https://github.com/ucsandman/DashClaw"
 }
