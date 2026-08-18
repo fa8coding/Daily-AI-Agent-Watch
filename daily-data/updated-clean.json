@@ -1,70 +1,70 @@
 {
-  "name": "HashCortX",
-  "full_name": "Hash-7777/HashCortX",
-  "updated": "2026-08-17T01:06:19Z",
-  "desc": "A local-first AI workspace — multi-provider chat, an autonomous coding agent, 3D models, ERPs, and multi-agent swarms in one native desktop app. No backend. No telemetry. No account. MIT-licensed.",
-  "url": "https://github.com/Hash-7777/HashCortX"
-}
-{
-  "name": "awesome-agent-skills",
-  "full_name": "JackyST0/awesome-agent-skills",
-  "updated": "2026-08-17T01:06:21Z",
-  "desc": "🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具",
-  "url": "https://github.com/JackyST0/awesome-agent-skills"
-}
-{
   "name": "opencouncil-contract-inspector",
   "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-08-17T01:05:50Z",
+  "updated": "2026-08-18T01:03:56Z",
   "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
   "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
-  "name": "deepagents-in-action",
-  "full_name": "datawhalechina/deepagents-in-action",
-  "updated": "2026-08-17T01:05:28Z",
-  "desc": "📚 《Deep Agents 实战》—— LangChain 官方大使出品，基于 LangChain / LangGraph 生态，从零构建生产级 AI Agent 的完整指南",
-  "url": "https://github.com/datawhalechina/deepagents-in-action"
+  "name": "OpenProgram",
+  "full_name": "Fzkuji/OpenProgram",
+  "updated": "2026-08-18T01:03:46Z",
+  "desc": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+  "url": "https://github.com/Fzkuji/OpenProgram"
+}
+{
+  "name": "doris",
+  "full_name": "apache/doris",
+  "updated": "2026-08-18T01:03:28Z",
+  "desc": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
+  "url": "https://github.com/apache/doris"
+}
+{
+  "name": "nexus",
+  "full_name": "nexus-research-lab/nexus",
+  "updated": "2026-08-18T01:03:07Z",
+  "desc": "Multi-agent collaboration platform for persistent, proactive AI agents across rooms, workspaces, skills, and external services.",
+  "url": "https://github.com/nexus-research-lab/nexus"
 }
 {
   "name": "ClaudeCode-Workflow-Lab",
   "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
-  "updated": "2026-08-17T01:04:23Z",
+  "updated": "2026-08-18T01:02:41Z",
   "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
   "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
 }
 {
-  "name": "clawmetry",
-  "full_name": "vivekchand/clawmetry",
-  "updated": "2026-08-17T01:04:08Z",
-  "desc": "See your agent think. Zero-config observability & governance for 20+ AI agent runtimes: OpenClaw, Claude Code, OpenAI Codex, Cursor, Aider, Goose, NVIDIA NemoClaw, NanoClaw & more. Live token costs, sessions, tool calls, crons.",
-  "url": "https://github.com/vivekchand/clawmetry"
+  "name": "commonly",
+  "full_name": "Team-Commonly/commonly",
+  "updated": "2026-08-18T01:02:17Z",
+  "desc": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infra — no per-agent fees.",
+  "url": "https://github.com/Team-Commonly/commonly"
 }
 {
-  "name": "agent-ecologies",
-  "full_name": "israriqbal/agent-ecologies",
-  "updated": "2026-08-17T01:01:21Z",
-  "desc": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-  "url": "https://github.com/israriqbal/agent-ecologies"
+  "name": "sutando",
+  "full_name": "sonichi/sutando",
+  "updated": "2026-08-18T01:01:07Z",
+  "desc": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
+  "url": "https://github.com/sonichi/sutando"
+}
+{
+  "name": "agentfield",
+  "full_name": "Agent-Field/agentfield",
+  "updated": "2026-08-18T01:00:24Z",
+  "desc": "Build, run and scale AI agents like API and microservices",
+  "url": "https://github.com/Agent-Field/agentfield"
 }
 {
   "name": "hermes-agency-orchestrator",
   "full_name": "Sakshxm1/hermes-agency-orchestrator",
-  "updated": "2026-08-17T01:01:17Z",
+  "updated": "2026-08-18T00:59:48Z",
   "desc": "Claude Code Agent Workflows Guide 2026: Skills vs Teams vs Cost Analysis",
   "url": "https://github.com/Sakshxm1/hermes-agency-orchestrator"
 }
 {
-  "name": "gemini-cli",
-  "full_name": "google-gemini/gemini-cli",
-  "updated": "2026-08-17T01:06:08Z",
-  "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-  "url": "https://github.com/google-gemini/gemini-cli"
-}
-{
-  "name": "DashClaw",
-  "full_name": "ucsandman/DashClaw",
-  "updated": "2026-08-17T00:59:58Z",
-  "desc": "🛡️ The approval and policy layer for AI agents. Intercept risky actions before they run, block them, or approve them remotely.",
-  "url": "https://github.com/ucsandman/DashClaw"
+  "name": "agent-ecologies",
+  "full_name": "israriqbal/agent-ecologies",
+  "updated": "2026-08-18T00:59:33Z",
+  "desc": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+  "url": "https://github.com/israriqbal/agent-ecologies"
 }
