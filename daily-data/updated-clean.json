@@ -1,70 +1,70 @@
 {
   "name": "opencouncil-contract-inspector",
   "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-08-18T01:03:56Z",
+  "updated": "2026-08-19T01:05:09Z",
   "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
   "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
-  "name": "OpenProgram",
-  "full_name": "Fzkuji/OpenProgram",
-  "updated": "2026-08-18T01:03:46Z",
-  "desc": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-  "url": "https://github.com/Fzkuji/OpenProgram"
+  "name": "BossConsole",
+  "full_name": "risa-labs-inc/BossConsole",
+  "updated": "2026-08-19T01:04:45Z",
+  "desc": "Open-source, multi-platform harness for AI agents — a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
+  "url": "https://github.com/risa-labs-inc/BossConsole"
 }
 {
-  "name": "doris",
-  "full_name": "apache/doris",
-  "updated": "2026-08-18T01:03:28Z",
-  "desc": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
-  "url": "https://github.com/apache/doris"
-}
-{
-  "name": "nexus",
-  "full_name": "nexus-research-lab/nexus",
-  "updated": "2026-08-18T01:03:07Z",
-  "desc": "Multi-agent collaboration platform for persistent, proactive AI agents across rooms, workspaces, skills, and external services.",
-  "url": "https://github.com/nexus-research-lab/nexus"
+  "name": "bitterbot-desktop",
+  "full_name": "Bitterbot-AI/bitterbot-desktop",
+  "updated": "2026-08-19T01:03:29Z",
+  "desc": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
+  "url": "https://github.com/Bitterbot-AI/bitterbot-desktop"
 }
 {
   "name": "ClaudeCode-Workflow-Lab",
   "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
-  "updated": "2026-08-18T01:02:41Z",
+  "updated": "2026-08-19T01:03:58Z",
   "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
   "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
 }
 {
-  "name": "commonly",
-  "full_name": "Team-Commonly/commonly",
-  "updated": "2026-08-18T01:02:17Z",
-  "desc": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infra — no per-agent fees.",
-  "url": "https://github.com/Team-Commonly/commonly"
+  "name": "AskHuman",
+  "full_name": "Naituw/AskHuman",
+  "updated": "2026-08-19T01:03:55Z",
+  "desc": "Human-in-the-loop tool for answering questions from AI agents.",
+  "url": "https://github.com/Naituw/AskHuman"
 }
 {
-  "name": "sutando",
-  "full_name": "sonichi/sutando",
-  "updated": "2026-08-18T01:01:07Z",
-  "desc": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
-  "url": "https://github.com/sonichi/sutando"
+  "name": "doris",
+  "full_name": "apache/doris",
+  "updated": "2026-08-19T01:03:35Z",
+  "desc": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
+  "url": "https://github.com/apache/doris"
 }
 {
-  "name": "agentfield",
-  "full_name": "Agent-Field/agentfield",
-  "updated": "2026-08-18T01:00:24Z",
-  "desc": "Build, run and scale AI agents like API and microservices",
-  "url": "https://github.com/Agent-Field/agentfield"
+  "name": "agent_learning",
+  "full_name": "Haozhe-Xing/agent_learning",
+  "updated": "2026-08-19T01:00:48Z",
+  "desc": "A systematic AI Agent development tutorial covering LLM agents, RAG, tool use, memory systems, multi-agent systems, LangChain, LangGraph, MCP, and agentic RL.｜从零开始学 AI Agent 开发 | 系统、全面、实战导向的 Agent 开发教程 | 每日自动追踪 arXiv 最新论文 | Learn AI Agent Development from Scratch",
+  "url": "https://github.com/Haozhe-Xing/agent_learning"
+}
+{
+  "name": "uteke",
+  "full_name": "codecoradev/uteke",
+  "updated": "2026-08-19T01:02:18Z",
+  "desc": "🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embeddings. Single Rust binary, zero config, fully offline.",
+  "url": "https://github.com/codecoradev/uteke"
 }
 {
   "name": "hermes-agency-orchestrator",
   "full_name": "Sakshxm1/hermes-agency-orchestrator",
-  "updated": "2026-08-18T00:59:48Z",
+  "updated": "2026-08-19T01:00:33Z",
   "desc": "Claude Code Agent Workflows Guide 2026: Skills vs Teams vs Cost Analysis",
   "url": "https://github.com/Sakshxm1/hermes-agency-orchestrator"
 }
 {
   "name": "agent-ecologies",
   "full_name": "israriqbal/agent-ecologies",
-  "updated": "2026-08-18T00:59:33Z",
+  "updated": "2026-08-19T01:00:41Z",
   "desc": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
   "url": "https://github.com/israriqbal/agent-ecologies"
 }
