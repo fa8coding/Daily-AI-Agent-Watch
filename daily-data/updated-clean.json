@@ -1,70 +1,70 @@
 {
+  "name": "claudexor",
+  "full_name": "razzant/claudexor",
+  "updated": "2026-08-20T01:04:48Z",
+  "desc": "Multi-harness control plane for Claude Code, Codex, Cursor, and OpenCode: quota-aware rotation across multiple Claude/Codex subscriptions, shared thread context, and cross-model review.",
+  "url": "https://github.com/razzant/claudexor"
+}
+{
   "name": "opencouncil-contract-inspector",
   "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-08-19T01:05:09Z",
+  "updated": "2026-08-20T01:04:53Z",
   "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
   "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
-  "name": "BossConsole",
-  "full_name": "risa-labs-inc/BossConsole",
-  "updated": "2026-08-19T01:04:45Z",
-  "desc": "Open-source, multi-platform harness for AI agents — a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
-  "url": "https://github.com/risa-labs-inc/BossConsole"
-}
-{
-  "name": "bitterbot-desktop",
-  "full_name": "Bitterbot-AI/bitterbot-desktop",
-  "updated": "2026-08-19T01:03:29Z",
-  "desc": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
-  "url": "https://github.com/Bitterbot-AI/bitterbot-desktop"
+  "name": "langwatch",
+  "full_name": "langwatch/langwatch",
+  "updated": "2026-08-20T01:04:00Z",
+  "desc": "The platform for LLM evaluations and AI agent testing",
+  "url": "https://github.com/langwatch/langwatch"
 }
 {
   "name": "ClaudeCode-Workflow-Lab",
   "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
-  "updated": "2026-08-19T01:03:58Z",
+  "updated": "2026-08-20T01:02:56Z",
   "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
   "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
 }
 {
-  "name": "AskHuman",
-  "full_name": "Naituw/AskHuman",
-  "updated": "2026-08-19T01:03:55Z",
-  "desc": "Human-in-the-loop tool for answering questions from AI agents.",
-  "url": "https://github.com/Naituw/AskHuman"
+  "name": "Cotal",
+  "full_name": "Cotal-AI/Cotal",
+  "updated": "2026-08-20T01:02:38Z",
+  "desc": "The open standard for agent coordination",
+  "url": "https://github.com/Cotal-AI/Cotal"
 }
 {
-  "name": "doris",
-  "full_name": "apache/doris",
-  "updated": "2026-08-19T01:03:35Z",
-  "desc": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
-  "url": "https://github.com/apache/doris"
+  "name": "ongrid",
+  "full_name": "ongridio/ongrid",
+  "updated": "2026-08-20T01:02:08Z",
+  "desc": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, Lark or DingTalk.",
+  "url": "https://github.com/ongridio/ongrid"
 }
 {
-  "name": "agent_learning",
-  "full_name": "Haozhe-Xing/agent_learning",
-  "updated": "2026-08-19T01:00:48Z",
-  "desc": "A systematic AI Agent development tutorial covering LLM agents, RAG, tool use, memory systems, multi-agent systems, LangChain, LangGraph, MCP, and agentic RL.｜从零开始学 AI Agent 开发 | 系统、全面、实战导向的 Agent 开发教程 | 每日自动追踪 arXiv 最新论文 | Learn AI Agent Development from Scratch",
-  "url": "https://github.com/Haozhe-Xing/agent_learning"
+  "name": "terminal-bench-science",
+  "full_name": "harbor-framework/terminal-bench-science",
+  "updated": "2026-08-20T01:03:02Z",
+  "desc": "Terminal-Bench-Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal",
+  "url": "https://github.com/harbor-framework/terminal-bench-science"
 }
 {
-  "name": "uteke",
-  "full_name": "codecoradev/uteke",
-  "updated": "2026-08-19T01:02:18Z",
-  "desc": "🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embeddings. Single Rust binary, zero config, fully offline.",
-  "url": "https://github.com/codecoradev/uteke"
+  "name": "agentconnect",
+  "full_name": "agentconnect-md/agentconnect",
+  "updated": "2026-08-20T01:01:51Z",
+  "desc": "Tag any agent, wherever work happens, your agents work alongside your team and each other, learning as they go.",
+  "url": "https://github.com/agentconnect-md/agentconnect"
 }
 {
-  "name": "hermes-agency-orchestrator",
-  "full_name": "Sakshxm1/hermes-agency-orchestrator",
-  "updated": "2026-08-19T01:00:33Z",
-  "desc": "Claude Code Agent Workflows Guide 2026: Skills vs Teams vs Cost Analysis",
-  "url": "https://github.com/Sakshxm1/hermes-agency-orchestrator"
+  "name": "studio",
+  "full_name": "decocms/studio",
+  "updated": "2026-08-20T01:01:20Z",
+  "desc": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
+  "url": "https://github.com/decocms/studio"
 }
 {
-  "name": "agent-ecologies",
-  "full_name": "israriqbal/agent-ecologies",
-  "updated": "2026-08-19T01:00:41Z",
-  "desc": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-  "url": "https://github.com/israriqbal/agent-ecologies"
+  "name": "goose",
+  "full_name": "aaif-goose/goose",
+  "updated": "2026-08-20T01:01:03Z",
+  "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+  "url": "https://github.com/aaif-goose/goose"
 }
