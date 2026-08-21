@@ -1,70 +1,70 @@
 {
-  "name": "claudexor",
-  "full_name": "razzant/claudexor",
-  "updated": "2026-08-20T01:04:48Z",
-  "desc": "Multi-harness control plane for Claude Code, Codex, Cursor, and OpenCode: quota-aware rotation across multiple Claude/Codex subscriptions, shared thread context, and cross-model review.",
-  "url": "https://github.com/razzant/claudexor"
+  "name": "opensquilla",
+  "full_name": "opensquilla/opensquilla",
+  "updated": "2026-08-21T01:08:58Z",
+  "desc": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
+  "url": "https://github.com/opensquilla/opensquilla"
 }
 {
   "name": "opencouncil-contract-inspector",
   "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-08-20T01:04:53Z",
+  "updated": "2026-08-21T01:07:46Z",
   "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
   "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
-  "name": "langwatch",
-  "full_name": "langwatch/langwatch",
-  "updated": "2026-08-20T01:04:00Z",
-  "desc": "The platform for LLM evaluations and AI agent testing",
-  "url": "https://github.com/langwatch/langwatch"
+  "name": "agor",
+  "full_name": "preset-io/agor",
+  "updated": "2026-08-21T01:07:39Z",
+  "desc": "Agor - team command center for all things agentic",
+  "url": "https://github.com/preset-io/agor"
 }
 {
   "name": "ClaudeCode-Workflow-Lab",
   "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
-  "updated": "2026-08-20T01:02:56Z",
+  "updated": "2026-08-21T01:06:43Z",
   "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
   "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
 }
 {
-  "name": "Cotal",
-  "full_name": "Cotal-AI/Cotal",
-  "updated": "2026-08-20T01:02:38Z",
-  "desc": "The open standard for agent coordination",
-  "url": "https://github.com/Cotal-AI/Cotal"
+  "name": "superserve",
+  "full_name": "superserve-ai/superserve",
+  "updated": "2026-08-21T01:06:38Z",
+  "desc": "Sandbox infrastructure for AI Agents",
+  "url": "https://github.com/superserve-ai/superserve"
 }
 {
-  "name": "ongrid",
-  "full_name": "ongridio/ongrid",
-  "updated": "2026-08-20T01:02:08Z",
-  "desc": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, Lark or DingTalk.",
-  "url": "https://github.com/ongridio/ongrid"
+  "name": "OpenMAIC",
+  "full_name": "THU-MAIC/OpenMAIC",
+  "updated": "2026-08-21T01:06:40Z",
+  "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+  "url": "https://github.com/THU-MAIC/OpenMAIC"
 }
 {
-  "name": "terminal-bench-science",
-  "full_name": "harbor-framework/terminal-bench-science",
-  "updated": "2026-08-20T01:03:02Z",
-  "desc": "Terminal-Bench-Science: Evaluating AI Agents on Complex Real-World Scientific Workflows in the Terminal",
-  "url": "https://github.com/harbor-framework/terminal-bench-science"
+  "name": "hermes-agency-orchestrator",
+  "full_name": "Sakshxm1/hermes-agency-orchestrator",
+  "updated": "2026-08-21T01:04:17Z",
+  "desc": "Claude Code Agent Workflows Guide 2026: Skills vs Teams vs Cost Analysis",
+  "url": "https://github.com/Sakshxm1/hermes-agency-orchestrator"
 }
 {
-  "name": "agentconnect",
-  "full_name": "agentconnect-md/agentconnect",
-  "updated": "2026-08-20T01:01:51Z",
-  "desc": "Tag any agent, wherever work happens, your agents work alongside your team and each other, learning as they go.",
-  "url": "https://github.com/agentconnect-md/agentconnect"
+  "name": "agent-ecologies",
+  "full_name": "israriqbal/agent-ecologies",
+  "updated": "2026-08-21T01:03:46Z",
+  "desc": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+  "url": "https://github.com/israriqbal/agent-ecologies"
 }
 {
-  "name": "studio",
-  "full_name": "decocms/studio",
-  "updated": "2026-08-20T01:01:20Z",
-  "desc": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
-  "url": "https://github.com/decocms/studio"
+  "name": "adk-python",
+  "full_name": "google/adk-python",
+  "updated": "2026-08-21T01:03:36Z",
+  "desc": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+  "url": "https://github.com/google/adk-python"
 }
 {
-  "name": "goose",
-  "full_name": "aaif-goose/goose",
-  "updated": "2026-08-20T01:01:03Z",
-  "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-  "url": "https://github.com/aaif-goose/goose"
+  "name": "UCAgent",
+  "full_name": "XS-MLVP/UCAgent",
+  "updated": "2026-08-21T01:00:51Z",
+  "desc": "UnityChip Verification AI-Agent",
+  "url": "https://github.com/XS-MLVP/UCAgent"
 }
