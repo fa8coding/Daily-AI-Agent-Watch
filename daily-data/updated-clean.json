@@ -1,70 +1,70 @@
 {
-  "name": "opensquilla",
-  "full_name": "opensquilla/opensquilla",
-  "updated": "2026-08-21T01:08:58Z",
-  "desc": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
-  "url": "https://github.com/opensquilla/opensquilla"
+  "name": "Boucle-framework",
+  "full_name": "Bande-a-Bonnot/Boucle-framework",
+  "updated": "2026-08-22T01:04:26Z",
+  "desc": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it.",
+  "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
 }
 {
   "name": "opencouncil-contract-inspector",
   "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-08-21T01:07:46Z",
+  "updated": "2026-08-22T01:04:22Z",
   "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
   "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
-  "name": "agor",
-  "full_name": "preset-io/agor",
-  "updated": "2026-08-21T01:07:39Z",
-  "desc": "Agor - team command center for all things agentic",
-  "url": "https://github.com/preset-io/agor"
+  "name": "gascity",
+  "full_name": "gastownhall/gascity",
+  "updated": "2026-08-22T01:03:12Z",
+  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
+  "url": "https://github.com/gastownhall/gascity"
 }
 {
   "name": "ClaudeCode-Workflow-Lab",
   "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
-  "updated": "2026-08-21T01:06:43Z",
+  "updated": "2026-08-22T01:02:46Z",
   "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
   "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
 }
 {
-  "name": "superserve",
-  "full_name": "superserve-ai/superserve",
-  "updated": "2026-08-21T01:06:38Z",
-  "desc": "Sandbox infrastructure for AI Agents",
-  "url": "https://github.com/superserve-ai/superserve"
+  "name": "aidevops",
+  "full_name": "marcusquinn/aidevops",
+  "updated": "2026-08-22T01:02:38Z",
+  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
+  "url": "https://github.com/marcusquinn/aidevops"
 }
 {
-  "name": "OpenMAIC",
-  "full_name": "THU-MAIC/OpenMAIC",
-  "updated": "2026-08-21T01:06:40Z",
-  "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-  "url": "https://github.com/THU-MAIC/OpenMAIC"
+  "name": "openai-agents-js",
+  "full_name": "openai/openai-agents-js",
+  "updated": "2026-08-22T01:02:40Z",
+  "desc": "A lightweight, powerful framework for multi-agent workflows and voice agents",
+  "url": "https://github.com/openai/openai-agents-js"
+}
+{
+  "name": "easyvm",
+  "full_name": "everettjf/easyvm",
+  "updated": "2026-08-22T01:01:00Z",
+  "desc": "Spin up isolated macOS or Linux VMs on Apple Silicon for AI agents to safely run code in.",
+  "url": "https://github.com/everettjf/easyvm"
+}
+{
+  "name": "graphjin",
+  "full_name": "dosco/graphjin",
+  "updated": "2026-08-22T01:01:11Z",
+  "desc": "One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code",
+  "url": "https://github.com/dosco/graphjin"
 }
 {
   "name": "hermes-agency-orchestrator",
   "full_name": "Sakshxm1/hermes-agency-orchestrator",
-  "updated": "2026-08-21T01:04:17Z",
+  "updated": "2026-08-22T01:00:15Z",
   "desc": "Claude Code Agent Workflows Guide 2026: Skills vs Teams vs Cost Analysis",
   "url": "https://github.com/Sakshxm1/hermes-agency-orchestrator"
 }
 {
   "name": "agent-ecologies",
   "full_name": "israriqbal/agent-ecologies",
-  "updated": "2026-08-21T01:03:46Z",
+  "updated": "2026-08-22T00:59:55Z",
   "desc": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
   "url": "https://github.com/israriqbal/agent-ecologies"
-}
-{
-  "name": "adk-python",
-  "full_name": "google/adk-python",
-  "updated": "2026-08-21T01:03:36Z",
-  "desc": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-  "url": "https://github.com/google/adk-python"
-}
-{
-  "name": "UCAgent",
-  "full_name": "XS-MLVP/UCAgent",
-  "updated": "2026-08-21T01:00:51Z",
-  "desc": "UnityChip Verification AI-Agent",
-  "url": "https://github.com/XS-MLVP/UCAgent"
 }
