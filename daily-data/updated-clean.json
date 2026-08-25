@@ -1,70 +1,70 @@
 {
-  "name": "graymatter",
-  "full_name": "angelnicolasc/graymatter",
-  "updated": "2026-08-24T01:08:22Z",
-  "desc": "Three lines of code to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.",
-  "url": "https://github.com/angelnicolasc/graymatter"
+  "name": "frankenterm",
+  "full_name": "Dicklesworthstone/frankenterm",
+  "updated": "2026-08-25T01:06:32Z",
+  "desc": "Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine pattern detection, and a JSON API for coordinating fleets of coding agents across WezTerm",
+  "url": "https://github.com/Dicklesworthstone/frankenterm"
 }
 {
-  "name": "Cotal",
-  "full_name": "Cotal-AI/Cotal",
-  "updated": "2026-08-24T01:07:49Z",
-  "desc": "The open standard for agent coordination",
-  "url": "https://github.com/Cotal-AI/Cotal"
-}
-{
-  "name": "zhin",
-  "full_name": "zhinjs/zhin",
-  "updated": "2026-08-24T01:07:59Z",
-  "desc": "AI-native TypeScript bot framework — one codebase for 20+ chat platforms (QQ, Discord, Telegram, Slack, WeChat…). Opt-in AI agent with MCP, tools & security policies. <10MB core.",
-  "url": "https://github.com/zhinjs/zhin"
-}
-{
-  "name": "awesome-agent-skills",
-  "full_name": "JackyST0/awesome-agent-skills",
-  "updated": "2026-08-24T01:07:48Z",
-  "desc": "🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具",
-  "url": "https://github.com/JackyST0/awesome-agent-skills"
-}
-{
-  "name": "net-deep-research",
-  "full_name": "h4444433333/net-deep-research",
-  "updated": "2026-08-24T01:07:37Z",
-  "desc": "Deep research skill for AI agents: live web research, source reputation checks, safer URL fetches, and structured evidence feedback.",
-  "url": "https://github.com/h4444433333/net-deep-research"
-}
-{
-  "name": "cindy",
-  "full_name": "makecindy/cindy",
-  "updated": "2026-08-24T01:07:11Z",
-  "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-  "url": "https://github.com/makecindy/cindy"
+  "name": "connectonion",
+  "full_name": "openonion/connectonion",
+  "updated": "2026-08-25T01:06:12Z",
+  "desc": "The Best AI Agent Framework for Agent Collaboration. ",
+  "url": "https://github.com/openonion/connectonion"
 }
 {
   "name": "opencouncil-contract-inspector",
   "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-08-24T01:06:56Z",
+  "updated": "2026-08-25T01:06:01Z",
   "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
   "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
-  "name": "amux",
-  "full_name": "mixpeek/amux",
-  "updated": "2026-08-24T01:07:05Z",
-  "desc": "Open-source control plane for AI coding agents — run, monitor & orchestrate dozens of parallel Claude Code, Codex & Gemini sessions from one web dashboard or your phone. Self-healing, single-file, tmux-native.",
-  "url": "https://github.com/mixpeek/amux"
-}
-{
-  "name": "HashCortX",
-  "full_name": "Hash-7777/HashCortX",
-  "updated": "2026-08-24T01:06:13Z",
-  "desc": "A local-first AI workspace — multi-provider chat, an autonomous coding agent, 3D models, ERPs, and multi-agent swarms in one native desktop app. No backend. No telemetry. No account. MIT-licensed.",
-  "url": "https://github.com/Hash-7777/HashCortX"
-}
-{
   "name": "ClaudeCode-Workflow-Lab",
   "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
-  "updated": "2026-08-24T01:05:52Z",
+  "updated": "2026-08-25T01:05:01Z",
   "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
   "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
+}
+{
+  "name": "studio",
+  "full_name": "decocms/studio",
+  "updated": "2026-08-25T01:04:37Z",
+  "desc": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
+  "url": "https://github.com/decocms/studio"
+}
+{
+  "name": "Claude-of-Tanks",
+  "full_name": "Kevin-Liu-01/Claude-of-Tanks",
+  "updated": "2026-08-25T01:03:57Z",
+  "desc": "A World of Tanks-style, Vite-powered, engine-free pure Three.js armored combat simulator resolving plate-level armor, ballistics, modules, spotting, and physics, with 110+ vehicles and 16 destructible battlefields. Playable entirely in the browser on desktop and mobile devices. Built end-to-end by a multi-agent Claude/Codex pipeline.",
+  "url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks"
+}
+{
+  "name": "Aegis",
+  "full_name": "antropos17/Aegis",
+  "updated": "2026-08-25T01:03:03Z",
+  "desc": "OS-level monitor for AI agents: observes processes, file access, and network activity on the local machine and attributes each event to an agent instance.",
+  "url": "https://github.com/antropos17/Aegis"
+}
+{
+  "name": "hermes-agency-orchestrator",
+  "full_name": "Sakshxm1/hermes-agency-orchestrator",
+  "updated": "2026-08-25T01:02:04Z",
+  "desc": "Claude Code Agent Workflows Guide 2026: Skills vs Teams vs Cost Analysis",
+  "url": "https://github.com/Sakshxm1/hermes-agency-orchestrator"
+}
+{
+  "name": "agent-ecologies",
+  "full_name": "israriqbal/agent-ecologies",
+  "updated": "2026-08-25T01:03:16Z",
+  "desc": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+  "url": "https://github.com/israriqbal/agent-ecologies"
+}
+{
+  "name": "gemini-cli",
+  "full_name": "google-gemini/gemini-cli",
+  "updated": "2026-08-25T01:06:28Z",
+  "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+  "url": "https://github.com/google-gemini/gemini-cli"
 }
