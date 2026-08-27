@@ -1,70 +1,70 @@
 {
-  "name": "airbyte",
-  "full_name": "airbytehq/airbyte",
-  "updated": "2026-08-26T01:08:44Z",
-  "desc": "Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.",
-  "url": "https://github.com/airbytehq/airbyte"
+  "name": "sonarqube-cli",
+  "full_name": "SonarSource/sonarqube-cli",
+  "updated": "2026-08-26T11:39:47Z",
+  "desc": "Command-line interface for SonarQube with AI agent integration. Scan for secrets and get fast feedback on code quality and security from your terminal.",
+  "url": "https://github.com/SonarSource/sonarqube-cli"
 }
 {
-  "name": "opencouncil-contract-inspector",
-  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-08-26T01:08:02Z",
-  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
-  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
+  "name": "Boucle-framework",
+  "full_name": "Bande-a-Bonnot/Boucle-framework",
+  "updated": "2026-08-27T07:18:52Z",
+  "desc": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it.",
+  "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
 }
 {
-  "name": "gascity",
-  "full_name": "gastownhall/gascity",
-  "updated": "2026-08-26T01:08:03Z",
-  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
-  "url": "https://github.com/gastownhall/gascity"
+  "name": "cumora",
+  "full_name": "yetone/cumora",
+  "updated": "2026-08-27T07:17:04Z",
+  "desc": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+  "url": "https://github.com/yetone/cumora"
 }
 {
-  "name": "ClaudeCode-Workflow-Lab",
-  "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
-  "updated": "2026-08-26T01:07:19Z",
-  "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
-  "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
+  "name": "uteke",
+  "full_name": "codecoradev/uteke",
+  "updated": "2026-08-27T07:18:08Z",
+  "desc": "🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embeddings. Single Rust binary, zero config, fully offline.",
+  "url": "https://github.com/codecoradev/uteke"
 }
 {
-  "name": "skills",
-  "full_name": "swyxio/skills",
-  "updated": "2026-08-26T01:05:58Z",
-  "desc": "Agent skills for Claude Code and other AI agents",
-  "url": "https://github.com/swyxio/skills"
+  "name": "stashbase",
+  "full_name": "liliu-z/stashbase",
+  "updated": "2026-08-27T07:18:08Z",
+  "desc": "Turn local files into searchable context for AI agents.",
+  "url": "https://github.com/liliu-z/stashbase"
 }
 {
-  "name": "hermes-agency-orchestrator",
-  "full_name": "Sakshxm1/hermes-agency-orchestrator",
-  "updated": "2026-08-26T01:03:50Z",
-  "desc": "Claude Code Agent Workflows Guide 2026: Skills vs Teams vs Cost Analysis",
-  "url": "https://github.com/Sakshxm1/hermes-agency-orchestrator"
+  "name": "earl",
+  "full_name": "mathematic-inc/earl",
+  "updated": "2026-08-27T07:16:11Z",
+  "desc": "Secure CLI proxy for AI agents — HCL-defined operation templates with OS keychain secrets, MCP integration, and prompt injection protection",
+  "url": "https://github.com/mathematic-inc/earl"
 }
 {
-  "name": "agent-ecologies",
-  "full_name": "israriqbal/agent-ecologies",
-  "updated": "2026-08-26T01:03:39Z",
-  "desc": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-  "url": "https://github.com/israriqbal/agent-ecologies"
+  "name": "moli",
+  "full_name": "lexmount/moli",
+  "updated": "2026-08-27T07:15:12Z",
+  "desc": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
+  "url": "https://github.com/lexmount/moli"
 }
 {
-  "name": "mcp_agent_mail_rust",
-  "full_name": "Dicklesworthstone/mcp_agent_mail_rust",
-  "updated": "2026-08-26T01:03:59Z",
-  "desc": "Rust MCP server for multi-agent coordination: 34 tools, Git-backed archive, SQLite indexing, advisory file locks, and an interactive TUI console",
-  "url": "https://github.com/Dicklesworthstone/mcp_agent_mail_rust"
+  "name": "Pane",
+  "full_name": "dcouple/Pane",
+  "updated": "2026-08-27T07:16:34Z",
+  "desc": "Terminal-first, open-source AI agent manager for any CLI agent (agent agnostic), any OS (mac, windows, linux). The Open-Source Agentic Development Environment for running multiple coding agents in parallel. Run locally or self-host Remote Pane to manage agents from desktop or phone. Simplify multi-agent orchestration with the runpane CLI.",
+  "url": "https://github.com/dcouple/Pane"
 }
 {
-  "name": "frankenterm",
-  "full_name": "Dicklesworthstone/frankenterm",
-  "updated": "2026-08-26T01:03:24Z",
-  "desc": "Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine pattern detection, and a JSON API for coordinating fleets of coding agents across WezTerm",
-  "url": "https://github.com/Dicklesworthstone/frankenterm"
+  "name": "Argus",
+  "full_name": "lbx154/Argus",
+  "updated": "2026-08-27T07:17:37Z",
+  "desc": "A self-evolving multi-agent system for autonomous research, operating 24/7 to explore, learn, and improve.",
+  "url": "https://github.com/lbx154/Argus"
 }
 {
-  "name": "opencode-swarm",
-  "full_name": "ZaxbyHub/opencode-swarm",
-  "updated": "2026-08-26T01:02:51Z",
-  "desc": "  Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.",
-  "url": "https://github.com/ZaxbyHub/opencode-swarm"
+  "name": "agents",
+  "full_name": "livekit/agents",
+  "updated": "2026-08-27T07:17:24Z",
+  "desc": "A framework for building realtime voice AI agents 🤖🎙️📹 ",
+  "url": "https://github.com/livekit/agents"
 }
