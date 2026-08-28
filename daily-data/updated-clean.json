@@ -1,70 +1,70 @@
 {
-  "name": "sonarqube-cli",
-  "full_name": "SonarSource/sonarqube-cli",
-  "updated": "2026-08-26T11:39:47Z",
-  "desc": "Command-line interface for SonarQube with AI agent integration. Scan for secrets and get fast feedback on code quality and security from your terminal.",
-  "url": "https://github.com/SonarSource/sonarqube-cli"
+  "name": "Avernet",
+  "full_name": "inclusionAI/Avernet",
+  "updated": "2026-08-28T09:32:40Z",
+  "desc": "Distributed agent coordination platform where agents live, connect, coordinate, execute, and evolve together.",
+  "url": "https://github.com/inclusionAI/Avernet"
 }
 {
-  "name": "Boucle-framework",
-  "full_name": "Bande-a-Bonnot/Boucle-framework",
-  "updated": "2026-08-27T07:18:52Z",
-  "desc": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it.",
-  "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  "name": "teamclu",
+  "full_name": "different-ai-studio/teamclu",
+  "updated": "2026-08-28T09:32:54Z",
+  "desc": "TeamClu, AI Agent Desktop Workspace",
+  "url": "https://github.com/different-ai-studio/teamclu"
 }
 {
-  "name": "cumora",
-  "full_name": "yetone/cumora",
-  "updated": "2026-08-27T07:17:04Z",
-  "desc": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
-  "url": "https://github.com/yetone/cumora"
+  "name": "EpicStaff",
+  "full_name": "EpicStaff/EpicStaff",
+  "updated": "2026-08-28T09:32:27Z",
+  "desc": "Source-available, self-hosted platform for building AI agent flows - visual editor over a Django backend.",
+  "url": "https://github.com/EpicStaff/EpicStaff"
 }
 {
-  "name": "uteke",
-  "full_name": "codecoradev/uteke",
-  "updated": "2026-08-27T07:18:08Z",
-  "desc": "🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embeddings. Single Rust binary, zero config, fully offline.",
-  "url": "https://github.com/codecoradev/uteke"
+  "name": "autopus-adk",
+  "full_name": "Insajin/autopus-adk",
+  "updated": "2026-08-28T09:32:50Z",
+  "desc": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastest). Architecture-as-Code, Lore decision tracking, SPEC/EARS engine.",
+  "url": "https://github.com/Insajin/autopus-adk"
 }
 {
-  "name": "stashbase",
-  "full_name": "liliu-z/stashbase",
-  "updated": "2026-08-27T07:18:08Z",
-  "desc": "Turn local files into searchable context for AI agents.",
-  "url": "https://github.com/liliu-z/stashbase"
+  "name": "Devora",
+  "full_name": "cheney369/Devora",
+  "updated": "2026-08-28T05:16:18Z",
+  "desc": "AI agent for end-to-end software development, from requirements to operations.",
+  "url": "https://github.com/cheney369/Devora"
 }
 {
-  "name": "earl",
-  "full_name": "mathematic-inc/earl",
-  "updated": "2026-08-27T07:16:11Z",
-  "desc": "Secure CLI proxy for AI agents — HCL-defined operation templates with OS keychain secrets, MCP integration, and prompt injection protection",
-  "url": "https://github.com/mathematic-inc/earl"
+  "name": "odai",
+  "full_name": "orziz/odai",
+  "updated": "2026-08-28T09:30:51Z",
+  "desc": "AI agent 通用任务治理框架：对齐目标与事实，规划和调度能力，守住授权与风险边界，治理任务执行到真实验收与交付。Governance framework for evidence-driven planning, orchestration, and verified delivery.",
+  "url": "https://github.com/orziz/odai"
 }
 {
-  "name": "moli",
-  "full_name": "lexmount/moli",
-  "updated": "2026-08-27T07:15:12Z",
-  "desc": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
-  "url": "https://github.com/lexmount/moli"
+  "name": "Claude-of-Tanks",
+  "full_name": "Kevin-Liu-01/Claude-of-Tanks",
+  "updated": "2026-08-28T09:31:42Z",
+  "desc": "A World of Tanks-style, Vite-powered, engine-free pure Three.js armored combat simulator resolving plate-level armor, ballistics, modules, spotting, and physics, with 110+ vehicles and 16 destructible battlefields. Playable entirely in the browser on desktop and mobile devices. Built end-to-end by a multi-agent Claude/Codex pipeline.",
+  "url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks"
 }
 {
-  "name": "Pane",
-  "full_name": "dcouple/Pane",
-  "updated": "2026-08-27T07:16:34Z",
-  "desc": "Terminal-first, open-source AI agent manager for any CLI agent (agent agnostic), any OS (mac, windows, linux). The Open-Source Agentic Development Environment for running multiple coding agents in parallel. Run locally or self-host Remote Pane to manage agents from desktop or phone. Simplify multi-agent orchestration with the runpane CLI.",
-  "url": "https://github.com/dcouple/Pane"
+  "name": "novamira",
+  "full_name": "use-novamira/novamira",
+  "updated": "2026-08-28T09:30:53Z",
+  "desc": "MCP server that gives AI agents full access to WordPress through PHP execution and filesystem operations",
+  "url": "https://github.com/use-novamira/novamira"
 }
 {
-  "name": "Argus",
-  "full_name": "lbx154/Argus",
-  "updated": "2026-08-27T07:17:37Z",
-  "desc": "A self-evolving multi-agent system for autonomous research, operating 24/7 to explore, learn, and improve.",
-  "url": "https://github.com/lbx154/Argus"
+  "name": "MisakaNet",
+  "full_name": "Ikalus1988/MisakaNet",
+  "updated": "2026-08-28T09:30:16Z",
+  "desc": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
+  "url": "https://github.com/Ikalus1988/MisakaNet"
 }
 {
-  "name": "agents",
-  "full_name": "livekit/agents",
-  "updated": "2026-08-27T07:17:24Z",
-  "desc": "A framework for building realtime voice AI agents 🤖🎙️📹 ",
-  "url": "https://github.com/livekit/agents"
+  "name": "edgeever",
+  "full_name": "tianma-if/edgeever",
+  "updated": "2026-08-28T09:29:35Z",
+  "desc": "Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器、0费用、原生支持 AI Agent 的开源自托管『印象笔记』",
+  "url": "https://github.com/tianma-if/edgeever"
 }
