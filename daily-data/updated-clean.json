@@ -1,70 +1,70 @@
 {
-  "name": "Avernet",
-  "full_name": "inclusionAI/Avernet",
-  "updated": "2026-08-28T09:32:40Z",
-  "desc": "Distributed agent coordination platform where agents live, connect, coordinate, execute, and evolve together.",
-  "url": "https://github.com/inclusionAI/Avernet"
+  "name": "webcodex",
+  "full_name": "yyjeqhc/webcodex",
+  "updated": "2026-08-29T05:38:24Z",
+  "desc": "Give cloud AI agents a real development environment on your own machines.",
+  "url": "https://github.com/yyjeqhc/webcodex"
 }
 {
-  "name": "teamclu",
-  "full_name": "different-ai-studio/teamclu",
-  "updated": "2026-08-28T09:32:54Z",
-  "desc": "TeamClu, AI Agent Desktop Workspace",
-  "url": "https://github.com/different-ai-studio/teamclu"
+  "name": "watch-skill",
+  "full_name": "oxbshw/watch-skill",
+  "updated": "2026-08-29T05:38:50Z",
+  "desc": "Video understanding and self-verification for AI agents. Turn videos, streams, and agent screen recordings into searchable, timestamped evidence—then use THE LOOP to inspect, fix, and verify the work. MCP, CLI, REST, local-first.",
+  "url": "https://github.com/oxbshw/watch-skill"
 }
 {
-  "name": "EpicStaff",
-  "full_name": "EpicStaff/EpicStaff",
-  "updated": "2026-08-28T09:32:27Z",
-  "desc": "Source-available, self-hosted platform for building AI agent flows - visual editor over a Django backend.",
-  "url": "https://github.com/EpicStaff/EpicStaff"
-}
-{
-  "name": "autopus-adk",
-  "full_name": "Insajin/autopus-adk",
-  "updated": "2026-08-28T09:32:50Z",
-  "desc": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastest). Architecture-as-Code, Lore decision tracking, SPEC/EARS engine.",
-  "url": "https://github.com/Insajin/autopus-adk"
-}
-{
-  "name": "Devora",
-  "full_name": "cheney369/Devora",
-  "updated": "2026-08-28T05:16:18Z",
-  "desc": "AI agent for end-to-end software development, from requirements to operations.",
-  "url": "https://github.com/cheney369/Devora"
-}
-{
-  "name": "odai",
-  "full_name": "orziz/odai",
-  "updated": "2026-08-28T09:30:51Z",
-  "desc": "AI agent 通用任务治理框架：对齐目标与事实，规划和调度能力，守住授权与风险边界，治理任务执行到真实验收与交付。Governance framework for evidence-driven planning, orchestration, and verified delivery.",
-  "url": "https://github.com/orziz/odai"
+  "name": "agent-orchestrator",
+  "full_name": "Untrivial-ai/agent-orchestrator",
+  "updated": "2026-08-29T05:37:49Z",
+  "desc": "Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.",
+  "url": "https://github.com/Untrivial-ai/agent-orchestrator"
 }
 {
   "name": "Claude-of-Tanks",
   "full_name": "Kevin-Liu-01/Claude-of-Tanks",
-  "updated": "2026-08-28T09:31:42Z",
+  "updated": "2026-08-29T05:36:11Z",
   "desc": "A World of Tanks-style, Vite-powered, engine-free pure Three.js armored combat simulator resolving plate-level armor, ballistics, modules, spotting, and physics, with 110+ vehicles and 16 destructible battlefields. Playable entirely in the browser on desktop and mobile devices. Built end-to-end by a multi-agent Claude/Codex pipeline.",
   "url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks"
 }
 {
-  "name": "novamira",
-  "full_name": "use-novamira/novamira",
-  "updated": "2026-08-28T09:30:53Z",
-  "desc": "MCP server that gives AI agents full access to WordPress through PHP execution and filesystem operations",
-  "url": "https://github.com/use-novamira/novamira"
+  "name": "local-operator",
+  "full_name": "damianvtran/local-operator",
+  "updated": "2026-08-29T05:36:04Z",
+  "desc": "AI agents platform that gives you a workspace with an integrated team of personal assistants that can work behind the scenes to handle daily monotonous tasks.",
+  "url": "https://github.com/damianvtran/local-operator"
 }
 {
-  "name": "MisakaNet",
-  "full_name": "Ikalus1988/MisakaNet",
-  "updated": "2026-08-28T09:30:16Z",
-  "desc": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
-  "url": "https://github.com/Ikalus1988/MisakaNet"
+  "name": "maka",
+  "full_name": "apache/maka",
+  "updated": "2026-08-29T05:35:28Z",
+  "desc": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+  "url": "https://github.com/apache/maka"
 }
 {
-  "name": "edgeever",
-  "full_name": "tianma-if/edgeever",
-  "updated": "2026-08-28T09:29:35Z",
-  "desc": "Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器、0费用、原生支持 AI Agent 的开源自托管『印象笔记』",
-  "url": "https://github.com/tianma-if/edgeever"
+  "name": "langwatch",
+  "full_name": "langwatch/langwatch",
+  "updated": "2026-08-29T05:35:10Z",
+  "desc": "The platform for LLM evaluations and AI agent testing",
+  "url": "https://github.com/langwatch/langwatch"
+}
+{
+  "name": "wind-comic",
+  "full_name": "ChrisChen667788/wind-comic",
+  "updated": "2026-08-29T05:34:50Z",
+  "desc": "Multi-agent AI pipeline that turns one line of text into a finished short-form drama: script, cinematic storyboards, character-consistent video. Provider-agnostic (OpenAI/Claude, MJ, Minimax, Veo/Sora, fal, ComfyUI). MIT.",
+  "url": "https://github.com/ChrisChen667788/wind-comic"
+}
+{
+  "name": "Browser4",
+  "full_name": "platonai/Browser4",
+  "updated": "2026-08-29T05:34:21Z",
+  "desc": "Browser4 — an AI-native browser engine for autonomous agents, intelligent extraction, and large-scale web automation.",
+  "url": "https://github.com/platonai/Browser4"
+}
+{
+  "name": "wmux",
+  "full_name": "openwong2kim/wmux",
+  "updated": "2026-08-29T05:33:36Z",
+  "desc": "Run Claude Code, Codex & Gemini in parallel on Windows & macOS — git worktree fan-out with atomic hunk adoption, approval gates, reboot-surviving sessions",
+  "url": "https://github.com/openwong2kim/wmux"
 }
