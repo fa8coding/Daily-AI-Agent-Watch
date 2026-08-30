@@ -1,70 +1,70 @@
 {
-  "name": "webcodex",
-  "full_name": "yyjeqhc/webcodex",
-  "updated": "2026-08-29T05:38:24Z",
-  "desc": "Give cloud AI agents a real development environment on your own machines.",
-  "url": "https://github.com/yyjeqhc/webcodex"
+  "name": "Cotal",
+  "full_name": "Cotal-AI/Cotal",
+  "updated": "2026-08-30T03:39:09Z",
+  "desc": "The open standard for agent coordination",
+  "url": "https://github.com/Cotal-AI/Cotal"
 }
 {
-  "name": "watch-skill",
-  "full_name": "oxbshw/watch-skill",
-  "updated": "2026-08-29T05:38:50Z",
-  "desc": "Video understanding and self-verification for AI agents. Turn videos, streams, and agent screen recordings into searchable, timestamped evidence—then use THE LOOP to inspect, fix, and verify the work. MCP, CLI, REST, local-first.",
-  "url": "https://github.com/oxbshw/watch-skill"
+  "name": "clawmetry",
+  "full_name": "vivekchand/clawmetry",
+  "updated": "2026-08-30T03:39:09Z",
+  "desc": "See your agent think. Zero-config observability & governance for 26 AI agent runtimes: Claude Code, Cursor, OpenAI Codex, GitHub Copilot, Gemini CLI, Cline, OpenHands, Aider, Goose, OpenClaw, NVIDIA NemoClaw & more. Live token costs, sessions, tool calls, crons.",
+  "url": "https://github.com/vivekchand/clawmetry"
 }
 {
-  "name": "agent-orchestrator",
-  "full_name": "Untrivial-ai/agent-orchestrator",
-  "updated": "2026-08-29T05:37:49Z",
-  "desc": "Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.",
-  "url": "https://github.com/Untrivial-ai/agent-orchestrator"
+  "name": "Lody",
+  "full_name": "LodyAI/Lody",
+  "updated": "2026-08-30T03:38:57Z",
+  "desc": "Share coding agents with your team on phone and desktop",
+  "url": "https://github.com/LodyAI/Lody"
+}
+{
+  "name": "Boucle-framework",
+  "full_name": "Bande-a-Bonnot/Boucle-framework",
+  "updated": "2026-08-30T03:37:49Z",
+  "desc": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it.",
+  "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+}
+{
+  "name": "browser-use",
+  "full_name": "browser-use/browser-use",
+  "updated": "2026-08-30T03:37:49Z",
+  "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+  "url": "https://github.com/browser-use/browser-use"
+}
+{
+  "name": "deer-flow",
+  "full_name": "bytedance/deer-flow",
+  "updated": "2026-08-30T03:36:41Z",
+  "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+  "url": "https://github.com/bytedance/deer-flow"
+}
+{
+  "name": "LambChat",
+  "full_name": "Yanyutin753/LambChat",
+  "updated": "2026-08-30T03:35:45Z",
+  "desc": "LambChat — Enterprise Agent Infra for governed AI agents. Skills + MCP powered, Loop Agent ready, multi-tenant by design.",
+  "url": "https://github.com/Yanyutin753/LambChat"
+}
+{
+  "name": "fff",
+  "full_name": "dmtrKovalenko/fff",
+  "updated": "2026-08-30T03:35:29Z",
+  "desc": "The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS",
+  "url": "https://github.com/dmtrKovalenko/fff"
 }
 {
   "name": "Claude-of-Tanks",
   "full_name": "Kevin-Liu-01/Claude-of-Tanks",
-  "updated": "2026-08-29T05:36:11Z",
+  "updated": "2026-08-30T03:35:03Z",
   "desc": "A World of Tanks-style, Vite-powered, engine-free pure Three.js armored combat simulator resolving plate-level armor, ballistics, modules, spotting, and physics, with 110+ vehicles and 16 destructible battlefields. Playable entirely in the browser on desktop and mobile devices. Built end-to-end by a multi-agent Claude/Codex pipeline.",
   "url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks"
 }
 {
-  "name": "local-operator",
-  "full_name": "damianvtran/local-operator",
-  "updated": "2026-08-29T05:36:04Z",
-  "desc": "AI agents platform that gives you a workspace with an integrated team of personal assistants that can work behind the scenes to handle daily monotonous tasks.",
-  "url": "https://github.com/damianvtran/local-operator"
-}
-{
-  "name": "maka",
-  "full_name": "apache/maka",
-  "updated": "2026-08-29T05:35:28Z",
-  "desc": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-  "url": "https://github.com/apache/maka"
-}
-{
-  "name": "langwatch",
-  "full_name": "langwatch/langwatch",
-  "updated": "2026-08-29T05:35:10Z",
-  "desc": "The platform for LLM evaluations and AI agent testing",
-  "url": "https://github.com/langwatch/langwatch"
-}
-{
-  "name": "wind-comic",
-  "full_name": "ChrisChen667788/wind-comic",
-  "updated": "2026-08-29T05:34:50Z",
-  "desc": "Multi-agent AI pipeline that turns one line of text into a finished short-form drama: script, cinematic storyboards, character-consistent video. Provider-agnostic (OpenAI/Claude, MJ, Minimax, Veo/Sora, fal, ComfyUI). MIT.",
-  "url": "https://github.com/ChrisChen667788/wind-comic"
-}
-{
-  "name": "Browser4",
-  "full_name": "platonai/Browser4",
-  "updated": "2026-08-29T05:34:21Z",
-  "desc": "Browser4 — an AI-native browser engine for autonomous agents, intelligent extraction, and large-scale web automation.",
-  "url": "https://github.com/platonai/Browser4"
-}
-{
-  "name": "wmux",
-  "full_name": "openwong2kim/wmux",
-  "updated": "2026-08-29T05:33:36Z",
-  "desc": "Run Claude Code, Codex & Gemini in parallel on Windows & macOS — git worktree fan-out with atomic hunk adoption, approval gates, reboot-surviving sessions",
-  "url": "https://github.com/openwong2kim/wmux"
+  "name": "h5i",
+  "full_name": "h5i-dev/h5i",
+  "updated": "2026-08-30T03:34:22Z",
+  "desc": "Secure, auditable browser for AI agents. Pure Rust, no Chromium or V8. ~5× faster and ~80% less peak memory than headless Chromium.",
+  "url": "https://github.com/h5i-dev/h5i"
 }
