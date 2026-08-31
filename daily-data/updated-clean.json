@@ -1,70 +1,70 @@
 {
-  "name": "Cotal",
-  "full_name": "Cotal-AI/Cotal",
-  "updated": "2026-08-30T03:39:09Z",
-  "desc": "The open standard for agent coordination",
-  "url": "https://github.com/Cotal-AI/Cotal"
+  "name": "sandbase-harness",
+  "full_name": "sandbaseai/sandbase-harness",
+  "updated": "2026-08-31T03:38:29Z",
+  "desc": "Local-first, self-hosted AI agent runtime and MCP bridge with sandboxed sessions, memory, credentials, audit/replay, and a local Console.",
+  "url": "https://github.com/sandbaseai/sandbase-harness"
 }
 {
-  "name": "clawmetry",
-  "full_name": "vivekchand/clawmetry",
-  "updated": "2026-08-30T03:39:09Z",
-  "desc": "See your agent think. Zero-config observability & governance for 26 AI agent runtimes: Claude Code, Cursor, OpenAI Codex, GitHub Copilot, Gemini CLI, Cline, OpenHands, Aider, Goose, OpenClaw, NVIDIA NemoClaw & more. Live token costs, sessions, tool calls, crons.",
-  "url": "https://github.com/vivekchand/clawmetry"
+  "name": "memsearch",
+  "full_name": "zilliztech/memsearch",
+  "updated": "2026-08-31T03:39:26Z",
+  "desc": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.",
+  "url": "https://github.com/zilliztech/memsearch"
 }
 {
-  "name": "Lody",
-  "full_name": "LodyAI/Lody",
-  "updated": "2026-08-30T03:38:57Z",
-  "desc": "Share coding agents with your team on phone and desktop",
-  "url": "https://github.com/LodyAI/Lody"
+  "name": "gascity",
+  "full_name": "gastownhall/gascity",
+  "updated": "2026-08-31T03:38:27Z",
+  "desc": "Orchestration-builder SDK for multi-agent coding workflows",
+  "url": "https://github.com/gastownhall/gascity"
 }
 {
-  "name": "Boucle-framework",
-  "full_name": "Bande-a-Bonnot/Boucle-framework",
-  "updated": "2026-08-30T03:37:49Z",
-  "desc": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it.",
-  "url": "https://github.com/Bande-a-Bonnot/Boucle-framework"
+  "name": "ketch",
+  "full_name": "1broseidon/ketch",
+  "updated": "2026-08-31T03:38:23Z",
+  "desc": "Fast, stateless CLI for web search and scrape. Built for AI agents.",
+  "url": "https://github.com/1broseidon/ketch"
 }
 {
-  "name": "browser-use",
-  "full_name": "browser-use/browser-use",
-  "updated": "2026-08-30T03:37:49Z",
-  "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-  "url": "https://github.com/browser-use/browser-use"
+  "name": "frankenterm",
+  "full_name": "Dicklesworthstone/frankenterm",
+  "updated": "2026-08-31T03:38:15Z",
+  "desc": "Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine pattern detection, and a JSON API for coordinating fleets of coding agents across WezTerm",
+  "url": "https://github.com/Dicklesworthstone/frankenterm"
 }
 {
-  "name": "deer-flow",
-  "full_name": "bytedance/deer-flow",
-  "updated": "2026-08-30T03:36:41Z",
-  "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-  "url": "https://github.com/bytedance/deer-flow"
+  "name": "Avernet",
+  "full_name": "inclusionAI/Avernet",
+  "updated": "2026-08-31T03:37:38Z",
+  "desc": "Distributed agent coordination platform where agents live, connect, coordinate, execute, and evolve together.",
+  "url": "https://github.com/inclusionAI/Avernet"
 }
 {
-  "name": "LambChat",
-  "full_name": "Yanyutin753/LambChat",
-  "updated": "2026-08-30T03:35:45Z",
-  "desc": "LambChat — Enterprise Agent Infra for governed AI agents. Skills + MCP powered, Loop Agent ready, multi-tenant by design.",
-  "url": "https://github.com/Yanyutin753/LambChat"
+  "name": "awesome-agent-skills",
+  "full_name": "JackyST0/awesome-agent-skills",
+  "updated": "2026-08-31T03:37:23Z",
+  "desc": "🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具",
+  "url": "https://github.com/JackyST0/awesome-agent-skills"
 }
 {
-  "name": "fff",
-  "full_name": "dmtrKovalenko/fff",
-  "updated": "2026-08-30T03:35:29Z",
-  "desc": "The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS",
-  "url": "https://github.com/dmtrKovalenko/fff"
+  "name": "cindy",
+  "full_name": "makecindy/cindy",
+  "updated": "2026-08-31T03:37:41Z",
+  "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+  "url": "https://github.com/makecindy/cindy"
 }
 {
-  "name": "Claude-of-Tanks",
-  "full_name": "Kevin-Liu-01/Claude-of-Tanks",
-  "updated": "2026-08-30T03:35:03Z",
-  "desc": "A World of Tanks-style, Vite-powered, engine-free pure Three.js armored combat simulator resolving plate-level armor, ballistics, modules, spotting, and physics, with 110+ vehicles and 16 destructible battlefields. Playable entirely in the browser on desktop and mobile devices. Built end-to-end by a multi-agent Claude/Codex pipeline.",
-  "url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks"
+  "name": "sutando",
+  "full_name": "sonichi/sutando",
+  "updated": "2026-08-31T03:37:29Z",
+  "desc": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
+  "url": "https://github.com/sonichi/sutando"
 }
 {
   "name": "h5i",
   "full_name": "h5i-dev/h5i",
-  "updated": "2026-08-30T03:34:22Z",
-  "desc": "Secure, auditable browser for AI agents. Pure Rust, no Chromium or V8. ~5× faster and ~80% less peak memory than headless Chromium.",
+  "updated": "2026-08-31T03:36:14Z",
+  "desc": "Secure, auditable browser for AI agents. Pure Rust, no Chromium or V8. ~3× faster and ~86% less peak memory than headless Chromium.",
   "url": "https://github.com/h5i-dev/h5i"
 }
