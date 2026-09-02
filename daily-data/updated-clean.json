@@ -1,70 +1,70 @@
 {
-  "name": "Claude-of-Tanks",
-  "full_name": "Kevin-Liu-01/Claude-of-Tanks",
-  "updated": "2026-09-01T03:34:12Z",
-  "desc": "A World of Tanks-style, Vite-powered, engine-free pure Three.js armored combat simulator resolving plate-level armor, ballistics, modules, spotting, and physics, with 121 tanks and 20 destructible battlefields. Playable entirely in the browser on desktop and mobile devices. Built end-to-end by a multi-agent Claude/Codex pipeline.",
-  "url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks"
+  "name": "wmux",
+  "full_name": "openwong2kim/wmux",
+  "updated": "2026-09-02T02:53:01Z",
+  "desc": "Run Claude Code, Codex & Gemini in parallel on Windows & macOS — git worktree fan-out with atomic hunk adoption, approval gates, reboot-surviving sessions",
+  "url": "https://github.com/openwong2kim/wmux"
 }
 {
-  "name": "ai-video-editor",
-  "full_name": "MartinDelophy/ai-video-editor",
-  "updated": "2026-09-01T03:34:46Z",
-  "desc": "Open-source, local-first video editor where creators and AI agents edit the same real timeline.",
-  "url": "https://github.com/MartinDelophy/ai-video-editor"
+  "name": "PhysiClaw",
+  "full_name": "physiclaw/PhysiClaw",
+  "updated": "2026-09-02T02:53:16Z",
+  "desc": "The AI agent that interacts with you in the real world.",
+  "url": "https://github.com/physiclaw/PhysiClaw"
 }
 {
-  "name": "OpenViking",
-  "full_name": "volcengine/OpenViking",
-  "updated": "2026-09-01T03:33:43Z",
-  "desc": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-  "url": "https://github.com/volcengine/OpenViking"
+  "name": "pisper",
+  "full_name": "ling-kong-ran/pisper",
+  "updated": "2026-09-02T02:52:49Z",
+  "desc": "Multi-agent app for parallel sessions, tools, memory, workflows, desktop, terminal, and mobile.",
+  "url": "https://github.com/ling-kong-ran/pisper"
 }
 {
-  "name": "autoclaw",
-  "full_name": "tsingliuwin/autoclaw",
-  "updated": "2026-09-01T03:33:03Z",
-  "desc": "AutoClaw is a hyper-lightweight AI agent designed to live inside Docker containers. Unlike heavy, GUI-dependent agents, AutoClaw is built for headless, massive-scale concurrency.",
-  "url": "https://github.com/tsingliuwin/autoclaw"
+  "name": "frankenterm",
+  "full_name": "Dicklesworthstone/frankenterm",
+  "updated": "2026-09-02T02:50:57Z",
+  "desc": "Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine pattern detection, and a JSON API for coordinating fleets of coding agents across WezTerm",
+  "url": "https://github.com/Dicklesworthstone/frankenterm"
 }
 {
-  "name": "beancount-io",
-  "full_name": "bex-co/beancount-io",
-  "updated": "2026-09-01T03:32:53Z",
-  "desc": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + Expo.",
-  "url": "https://github.com/bex-co/beancount-io"
+  "name": "WrenAI",
+  "full_name": "Canner/WrenAI",
+  "updated": "2026-09-02T02:50:38Z",
+  "desc": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+  "url": "https://github.com/Canner/WrenAI"
 }
 {
-  "name": "Meldwork",
-  "full_name": "Ryder-MHumble/Meldwork",
-  "updated": "2026-09-01T03:32:25Z",
-  "desc": "Local-first AI agent workspace for multi-agent collaboration, agent orchestration, scoped permissions, evidence-aware runs, and human-in-the-loop decisions.",
-  "url": "https://github.com/Ryder-MHumble/Meldwork"
+  "name": "kody",
+  "full_name": "kentcdodds/kody",
+  "updated": "2026-09-02T02:49:57Z",
+  "desc": "🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare Workers.",
+  "url": "https://github.com/kentcdodds/kody"
 }
 {
-  "name": "agent-browser",
-  "full_name": "vercel-labs/agent-browser",
-  "updated": "2026-09-01T03:33:56Z",
-  "desc": "Browser automation CLI for AI agents",
-  "url": "https://github.com/vercel-labs/agent-browser"
+  "name": "teamclu",
+  "full_name": "different-ai-studio/teamclu",
+  "updated": "2026-09-02T02:50:20Z",
+  "desc": "TeamClu, AI Agent Desktop Workspace",
+  "url": "https://github.com/different-ai-studio/teamclu"
 }
 {
-  "name": "maka",
-  "full_name": "apache/maka",
-  "updated": "2026-09-01T03:33:43Z",
-  "desc": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-  "url": "https://github.com/apache/maka"
+  "name": "tirith",
+  "full_name": "sheeki03/tirith",
+  "updated": "2026-09-02T02:50:14Z",
+  "desc": "Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.",
+  "url": "https://github.com/sheeki03/tirith"
 }
 {
-  "name": "fullsend",
-  "full_name": "fullsend-ai/fullsend",
-  "updated": "2026-09-01T03:29:47Z",
-  "desc": "On the path to fully autonomous agentic engineering",
-  "url": "https://github.com/fullsend-ai/fullsend"
+  "name": "moli",
+  "full_name": "lexmount/moli",
+  "updated": "2026-09-02T02:52:27Z",
+  "desc": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
+  "url": "https://github.com/lexmount/moli"
 }
 {
-  "name": "atom",
-  "full_name": "rush86999/atom",
-  "updated": "2026-09-01T03:29:26Z",
-  "desc": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
-  "url": "https://github.com/rush86999/atom"
+  "name": "sim",
+  "full_name": "simstudioai/sim",
+  "updated": "2026-09-02T02:49:41Z",
+  "desc": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+  "url": "https://github.com/simstudioai/sim"
 }
