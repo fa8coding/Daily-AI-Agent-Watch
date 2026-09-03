@@ -1,70 +1,70 @@
 {
-  "name": "wmux",
-  "full_name": "openwong2kim/wmux",
-  "updated": "2026-09-02T02:53:01Z",
-  "desc": "Run Claude Code, Codex & Gemini in parallel on Windows & macOS — git worktree fan-out with atomic hunk adoption, approval gates, reboot-surviving sessions",
-  "url": "https://github.com/openwong2kim/wmux"
+  "name": "local-operator",
+  "full_name": "damianvtran/local-operator",
+  "updated": "2026-09-03T02:58:00Z",
+  "desc": "AI agents platform that gives you a workspace with an integrated team of personal assistants that can work behind the scenes to handle daily monotonous tasks.",
+  "url": "https://github.com/damianvtran/local-operator"
 }
 {
-  "name": "PhysiClaw",
-  "full_name": "physiclaw/PhysiClaw",
-  "updated": "2026-09-02T02:53:16Z",
-  "desc": "The AI agent that interacts with you in the real world.",
-  "url": "https://github.com/physiclaw/PhysiClaw"
+  "name": "academic-commercialization-agent",
+  "full_name": "shuxiachai/academic-commercialization-agent",
+  "updated": "2026-09-03T02:57:50Z",
+  "desc": "Turn any research paper into a commercialization report — 6 AI agents, TRL/MRL scoring, patent landscape, market intelligence, verified citations. DeepSeek / OpenAI / Claude.",
+  "url": "https://github.com/shuxiachai/academic-commercialization-agent"
 }
 {
-  "name": "pisper",
-  "full_name": "ling-kong-ran/pisper",
-  "updated": "2026-09-02T02:52:49Z",
-  "desc": "Multi-agent app for parallel sessions, tools, memory, workflows, desktop, terminal, and mobile.",
-  "url": "https://github.com/ling-kong-ran/pisper"
+  "name": "actors",
+  "full_name": "rivet-dev/actors",
+  "updated": "2026-09-03T02:57:03Z",
+  "desc": "Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.",
+  "url": "https://github.com/rivet-dev/actors"
 }
 {
-  "name": "frankenterm",
-  "full_name": "Dicklesworthstone/frankenterm",
-  "updated": "2026-09-02T02:50:57Z",
-  "desc": "Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine pattern detection, and a JSON API for coordinating fleets of coding agents across WezTerm",
-  "url": "https://github.com/Dicklesworthstone/frankenterm"
+  "name": "mcp_agent_mail_rust",
+  "full_name": "Dicklesworthstone/mcp_agent_mail_rust",
+  "updated": "2026-09-03T02:55:38Z",
+  "desc": "Rust MCP server for multi-agent coordination: 34 tools, Git-backed archive, SQLite indexing, advisory file locks, and an interactive TUI console",
+  "url": "https://github.com/Dicklesworthstone/mcp_agent_mail_rust"
 }
 {
-  "name": "WrenAI",
-  "full_name": "Canner/WrenAI",
-  "updated": "2026-09-02T02:50:38Z",
-  "desc": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
-  "url": "https://github.com/Canner/WrenAI"
+  "name": "commonly",
+  "full_name": "Team-Commonly/commonly",
+  "updated": "2026-09-03T02:54:52Z",
+  "desc": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infra — no per-agent fees.",
+  "url": "https://github.com/Team-Commonly/commonly"
 }
 {
-  "name": "kody",
-  "full_name": "kentcdodds/kody",
-  "updated": "2026-09-02T02:49:57Z",
-  "desc": "🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare Workers.",
-  "url": "https://github.com/kentcdodds/kody"
+  "name": "octo-web",
+  "full_name": "Mininglamp-OSS/octo-web",
+  "updated": "2026-09-03T02:53:42Z",
+  "desc": "Web & desktop (Electron) client for the OCTO open workplace — one React + TypeScript codebase shipping browser and PC surfaces, with first-class AI agent UX.",
+  "url": "https://github.com/Mininglamp-OSS/octo-web"
 }
 {
-  "name": "teamclu",
-  "full_name": "different-ai-studio/teamclu",
-  "updated": "2026-09-02T02:50:20Z",
-  "desc": "TeamClu, AI Agent Desktop Workspace",
-  "url": "https://github.com/different-ai-studio/teamclu"
+  "name": "opencouncil-contract-inspector",
+  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
+  "updated": "2026-09-03T02:53:44Z",
+  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
+  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
-  "name": "tirith",
-  "full_name": "sheeki03/tirith",
-  "updated": "2026-09-02T02:50:14Z",
-  "desc": "Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.",
-  "url": "https://github.com/sheeki03/tirith"
+  "name": "Lody",
+  "full_name": "LodyAI/Lody",
+  "updated": "2026-09-03T02:53:51Z",
+  "desc": "Share coding agents with your team on phone and desktop",
+  "url": "https://github.com/LodyAI/Lody"
 }
 {
-  "name": "moli",
-  "full_name": "lexmount/moli",
-  "updated": "2026-09-02T02:52:27Z",
-  "desc": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
-  "url": "https://github.com/lexmount/moli"
+  "name": "Franklin",
+  "full_name": "BlockRunAI/Franklin",
+  "updated": "2026-09-03T02:53:09Z",
+  "desc": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+  "url": "https://github.com/BlockRunAI/Franklin"
 }
 {
-  "name": "sim",
-  "full_name": "simstudioai/sim",
-  "updated": "2026-09-02T02:49:41Z",
-  "desc": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
-  "url": "https://github.com/simstudioai/sim"
+  "name": "OpenSwarm",
+  "full_name": "Intrect-io/OpenSwarm",
+  "updated": "2026-09-03T02:53:01Z",
+  "desc": "OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory.",
+  "url": "https://github.com/Intrect-io/OpenSwarm"
 }
