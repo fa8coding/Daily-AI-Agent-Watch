@@ -1,70 +1,70 @@
 {
-  "name": "graymatter",
-  "full_name": "angelnicolasc/graymatter",
-  "updated": "2026-09-04T02:55:50Z",
-  "desc": "30 sec to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.",
-  "url": "https://github.com/angelnicolasc/graymatter"
+  "name": "local-operator",
+  "full_name": "damianvtran/local-operator",
+  "updated": "2026-09-05T02:57:15Z",
+  "desc": "AI agents platform that gives you a workspace with an integrated team of personal assistants that can work behind the scenes to handle daily monotonous tasks.",
+  "url": "https://github.com/damianvtran/local-operator"
+}
+{
+  "name": "commonly",
+  "full_name": "Team-Commonly/commonly",
+  "updated": "2026-09-05T02:57:03Z",
+  "desc": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infra — no per-agent fees.",
+  "url": "https://github.com/Team-Commonly/commonly"
+}
+{
+  "name": "Claude-of-Tanks",
+  "full_name": "Kevin-Liu-01/Claude-of-Tanks",
+  "updated": "2026-09-05T02:56:42Z",
+  "desc": "A World of Tanks-style, Vite-powered, engine-free pure Three.js armored combat simulator resolving plate-level armor, ballistics, modules, spotting, and physics, with 121 tanks and 20 destructible battlefields. Playable entirely in the browser on desktop and mobile devices. Built end-to-end by a multi-agent Claude/Codex pipeline.",
+  "url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks"
+}
+{
+  "name": "munder-difflin",
+  "full_name": "chaitanyagiri/munder-difflin",
+  "updated": "2026-09-05T02:56:21Z",
+  "desc": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents",
+  "url": "https://github.com/chaitanyagiri/munder-difflin"
+}
+{
+  "name": "opencouncil-contract-inspector",
+  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
+  "updated": "2026-09-05T02:54:35Z",
+  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
+  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
 }
 {
   "name": "Lody",
   "full_name": "LodyAI/Lody",
-  "updated": "2026-09-04T02:54:43Z",
+  "updated": "2026-09-05T02:55:47Z",
   "desc": "Share coding agents with your team on phone and desktop",
   "url": "https://github.com/LodyAI/Lody"
 }
 {
-  "name": "DeskcommCRM",
-  "full_name": "melgarafael/DeskcommCRM",
-  "updated": "2026-09-04T02:54:20Z",
-  "desc": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-  "url": "https://github.com/melgarafael/DeskcommCRM"
+  "name": "aidevops",
+  "full_name": "marcusquinn/aidevops",
+  "updated": "2026-09-05T02:53:01Z",
+  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
+  "url": "https://github.com/marcusquinn/aidevops"
 }
 {
-  "name": "moli",
-  "full_name": "lexmount/moli",
-  "updated": "2026-09-04T02:53:54Z",
-  "desc": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
-  "url": "https://github.com/lexmount/moli"
+  "name": "switchboard",
+  "full_name": "TentacleOpera/switchboard",
+  "updated": "2026-09-05T02:52:35Z",
+  "desc": "Switchboard plugin for VS Code, enables subscription-based AI agent teams",
+  "url": "https://github.com/TentacleOpera/switchboard"
 }
 {
-  "name": "multica",
-  "full_name": "multica-ai/multica",
-  "updated": "2026-09-04T02:53:23Z",
-  "desc": "Make humans and AI agents work as one team — open-source and self-hostable.",
-  "url": "https://github.com/multica-ai/multica"
+  "name": "vibe-investing",
+  "full_name": "gameworkerkim/vibe-investing",
+  "updated": "2026-09-05T02:52:34Z",
+  "desc": "AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi-agent backtesting, and data-driven market columns (mNAV arbitrage, BTC-Nasdaq coupling, Alpha Arena). 미국 주식·가상화폐 AI 투자 큐레이션·칼럼·트레이딩 봇.",
+  "url": "https://github.com/gameworkerkim/vibe-investing"
 }
 {
-  "name": "LambChat",
-  "full_name": "Yanyutin753/LambChat",
-  "updated": "2026-09-04T02:52:54Z",
-  "desc": "LambChat — Enterprise Agent Infra for governed AI agents. Skills + MCP powered, Loop Agent ready, multi-tenant by design.",
-  "url": "https://github.com/Yanyutin753/LambChat"
-}
-{
-  "name": "Adnify",
-  "full_name": "ad-naan/Adnify",
-  "updated": "2026-09-04T02:52:21Z",
-  "desc": "A local‑first AI Agent IDE that plans, edits, debugs and ships projects. Your clever otter‑flavored coding teammate.🦦（一个很牛逼的agent ide）",
-  "url": "https://github.com/ad-naan/Adnify"
-}
-{
-  "name": "nanzi-ai-agent-platform",
-  "full_name": "RandyChen1985/nanzi-ai-agent-platform",
-  "updated": "2026-09-04T02:52:18Z",
-  "desc": "🚀 开源企业级多智能体平台与 ChatBI 数据洞察平台。支持多 Agent 协作、RAG 知识增强、物理数据源直连与安全沙箱执行、Redis 长期记忆引擎，并集成多模态 EmbedChat 挂件与全方位 Token 消耗审计看板，完整 RBAC权限控制和 Harness支持。",
-  "url": "https://github.com/RandyChen1985/nanzi-ai-agent-platform"
-}
-{
-  "name": "openyak",
-  "full_name": "openyak/openyak",
-  "updated": "2026-09-04T02:51:52Z",
-  "desc": "One chat. Every agent. A universal interface for AI agents running on your computer.",
-  "url": "https://github.com/openyak/openyak"
-}
-{
-  "name": "adk-python",
-  "full_name": "google/adk-python",
-  "updated": "2026-09-04T02:51:50Z",
-  "desc": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-  "url": "https://github.com/google/adk-python"
+  "name": "ClaudeCode-Workflow-Lab",
+  "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
+  "updated": "2026-09-05T02:52:18Z",
+  "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
+  "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
 }
