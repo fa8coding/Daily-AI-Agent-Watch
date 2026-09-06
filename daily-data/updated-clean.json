@@ -1,70 +1,70 @@
 {
-  "name": "local-operator",
-  "full_name": "damianvtran/local-operator",
-  "updated": "2026-09-05T02:57:15Z",
-  "desc": "AI agents platform that gives you a workspace with an integrated team of personal assistants that can work behind the scenes to handle daily monotonous tasks.",
-  "url": "https://github.com/damianvtran/local-operator"
+  "name": "ai-agent-book",
+  "full_name": "bojieli/ai-agent-book",
+  "updated": "2026-09-06T02:56:06Z",
+  "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+  "url": "https://github.com/bojieli/ai-agent-book"
 }
 {
-  "name": "commonly",
-  "full_name": "Team-Commonly/commonly",
-  "updated": "2026-09-05T02:57:03Z",
-  "desc": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infra — no per-agent fees.",
-  "url": "https://github.com/Team-Commonly/commonly"
+  "name": "zlib",
+  "full_name": "heartleo/zlib",
+  "updated": "2026-09-06T02:56:05Z",
+  "desc": "A command-line tool for Z-Library. Search, download, send to Kindle, and integrate with AI agents.",
+  "url": "https://github.com/heartleo/zlib"
 }
 {
-  "name": "Claude-of-Tanks",
-  "full_name": "Kevin-Liu-01/Claude-of-Tanks",
-  "updated": "2026-09-05T02:56:42Z",
-  "desc": "A World of Tanks-style, Vite-powered, engine-free pure Three.js armored combat simulator resolving plate-level armor, ballistics, modules, spotting, and physics, with 121 tanks and 20 destructible battlefields. Playable entirely in the browser on desktop and mobile devices. Built end-to-end by a multi-agent Claude/Codex pipeline.",
-  "url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks"
-}
-{
-  "name": "munder-difflin",
-  "full_name": "chaitanyagiri/munder-difflin",
-  "updated": "2026-09-05T02:56:21Z",
-  "desc": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents",
-  "url": "https://github.com/chaitanyagiri/munder-difflin"
-}
-{
-  "name": "opencouncil-contract-inspector",
-  "full_name": "vikashjeyaraman/opencouncil-contract-inspector",
-  "updated": "2026-09-05T02:54:35Z",
-  "desc": "Proven 2026 Multi-Agent AI Review System – Verdict-Driven Quality Control",
-  "url": "https://github.com/vikashjeyaraman/opencouncil-contract-inspector"
-}
-{
-  "name": "Lody",
-  "full_name": "LodyAI/Lody",
-  "updated": "2026-09-05T02:55:47Z",
-  "desc": "Share coding agents with your team on phone and desktop",
-  "url": "https://github.com/LodyAI/Lody"
-}
-{
-  "name": "aidevops",
-  "full_name": "marcusquinn/aidevops",
-  "updated": "2026-09-05T02:53:01Z",
-  "desc": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
-  "url": "https://github.com/marcusquinn/aidevops"
-}
-{
-  "name": "switchboard",
-  "full_name": "TentacleOpera/switchboard",
-  "updated": "2026-09-05T02:52:35Z",
-  "desc": "Switchboard plugin for VS Code, enables subscription-based AI agent teams",
-  "url": "https://github.com/TentacleOpera/switchboard"
+  "name": "cindy",
+  "full_name": "makecindy/cindy",
+  "updated": "2026-09-06T02:56:01Z",
+  "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+  "url": "https://github.com/makecindy/cindy"
 }
 {
   "name": "vibe-investing",
   "full_name": "gameworkerkim/vibe-investing",
-  "updated": "2026-09-05T02:52:34Z",
+  "updated": "2026-09-06T02:56:01Z",
   "desc": "AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi-agent backtesting, and data-driven market columns (mNAV arbitrage, BTC-Nasdaq coupling, Alpha Arena). 미국 주식·가상화폐 AI 투자 큐레이션·칼럼·트레이딩 봇.",
   "url": "https://github.com/gameworkerkim/vibe-investing"
 }
 {
-  "name": "ClaudeCode-Workflow-Lab",
-  "full_name": "Frisher1/ClaudeCode-Workflow-Lab",
-  "updated": "2026-09-05T02:52:18Z",
-  "desc": "Complete Guide 2026: Claude Code Manual – Workflow Pipelines & Adversarial Budget Loops",
-  "url": "https://github.com/Frisher1/ClaudeCode-Workflow-Lab"
+  "name": "RongxinAI",
+  "full_name": "rongxinzy/RongxinAI",
+  "updated": "2026-09-06T02:55:24Z",
+  "desc": "An all-in-one local AI Agent workspace with a fully self-developed stack",
+  "url": "https://github.com/rongxinzy/RongxinAI"
+}
+{
+  "name": "Cotal",
+  "full_name": "Cotal-AI/Cotal",
+  "updated": "2026-09-06T02:55:16Z",
+  "desc": "The open standard for agent coordination",
+  "url": "https://github.com/Cotal-AI/Cotal"
+}
+{
+  "name": "guaardvark",
+  "full_name": "guaardvark/guaardvark",
+  "updated": "2026-09-06T02:55:01Z",
+  "desc": "The self-hosted AI workstation. Autonomous screen agents, 3-tier neural routing, parallel agent swarms, video generation, 4K/8K upscaling, RAG, voice interface, 60+ tool execution engine — all running locally on your hardware.",
+  "url": "https://github.com/guaardvark/guaardvark"
+}
+{
+  "name": "dimos",
+  "full_name": "dimensionalOS/dimos",
+  "updated": "2026-09-06T02:54:39Z",
+  "desc": "Dimensional is the agentic operating system for physical space. Command humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).",
+  "url": "https://github.com/dimensionalOS/dimos"
+}
+{
+  "name": "munder-difflin",
+  "full_name": "chaitanyagiri/munder-difflin",
+  "updated": "2026-09-06T02:55:43Z",
+  "desc": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents",
+  "url": "https://github.com/chaitanyagiri/munder-difflin"
+}
+{
+  "name": "ContractGuard",
+  "full_name": "he-yufeng/ContractGuard",
+  "updated": "2026-09-06T02:53:54Z",
+  "desc": "AI agent that reads the fine print so you don't have to. Upload any contract → get red flags, unfair terms, and plain-English explanations in seconds.",
+  "url": "https://github.com/he-yufeng/ContractGuard"
 }
